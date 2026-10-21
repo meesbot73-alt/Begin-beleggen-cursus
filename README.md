@@ -26,7 +26,7 @@ De cursus bestaat uit modules met korte lessen. Zie [lesindeling.md](lesindeling
 ├── README.md         Cursusdoel en overzicht
 ├── lesindeling.md    Voorlopige indeling in modules en lessen
 ├── merk.md           Naam, kleuren, platform en prijzen
-└── lessen/           Uitgewerkte lessen (volgt)
+└── lessen/           Uitgewerkte lessen (module 1 klaar)
 ```
 
 ## Disclaimer
