@@ -1,4 +1,4 @@
-# Begin met beleggen
+# Beleggen Begint Hier
 
 Een Nederlandstalige cursus voor mensen die willen beginnen met beleggen, maar niet weten hoe of waar ze moeten beginnen.
 
@@ -25,6 +25,7 @@ De cursus bestaat uit modules met korte lessen. Zie [lesindeling.md](lesindeling
 .
 ├── README.md         Cursusdoel en overzicht
 ├── lesindeling.md    Voorlopige indeling in modules en lessen
+├── merk.md           Naam, kleuren, platform en prijzen
 └── lessen/           Uitgewerkte lessen (volgt)
 ```
 
