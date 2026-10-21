@@ -8,7 +8,7 @@ Alles wordt elk jaar een beetje duurder. Dat heet **inflatie**. Groeit je spaarg
 
 Weet je nog wat een patatje kostte toen je twaalf was? Waarschijnlijk een stuk minder dan nu. Dat is inflatie: prijzen stijgen, waardoor je met hetzelfde bedrag minder kunt kopen.
 
-Europa probeert de inflatie rond de **2% per jaar** te houden. In 2022 was het in Nederland ineens meer dan 10%. Gemiddeld kun je rekenen met zo'n 2 à 3% per jaar.
+Europa probeert de inflatie rond de **2% per jaar** te houden. In 2022 liep het in Nederland zelfs op tot boven de 10%. Gemiddeld kun je rekenen met zo'n 2 à 3% per jaar.
 
 ## Wat doet dat met je spaargeld?
 
