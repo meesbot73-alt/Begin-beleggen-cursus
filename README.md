@@ -25,7 +25,8 @@ De cursus bestaat uit modules met korte lessen. Zie [lesindeling.md](lesindeling
 .
 ├── README.md         Cursusdoel en overzicht
 ├── lesindeling.md    Voorlopige indeling in modules en lessen
-└── lessen/           Uitgewerkte lessen (volgt)
+├── lessen/           Uitgewerkte lessen (volgt)
+└── videos/           Videoplan (YouTube en cursus) en YouTube-scripts
 ```
 
 ## Disclaimer
