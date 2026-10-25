@@ -1,4 +1,4 @@
-# Voorlopige lesindeling
+# Lesindeling
 
 ## Module 1: Waarom beleggen?
 
