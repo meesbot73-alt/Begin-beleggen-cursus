@@ -79,7 +79,7 @@ Je denkt dat je spreidt, maar eigenlijk niet:
 
 - **Vijf ETF's met dezelfde bedrijven.** Een MSCI World-ETF, een S&P 500-ETF en een "Tech Giants"-ETF bevatten grotendeels dezelfde grote Amerikaanse bedrijven. Je hebt dan drie fondsen, maar niet drie keer zoveel spreiding.
 - **Twintig aandelen uit één sector.** Twintig techbedrijven zijn samen nog steeds één sector.
-- **Alleen Nederlandse aandelen.** De AEX bestaat uit 25 bedrijven, en een paar heel grote wegen zwaar.
+- **Alleen Nederlandse aandelen.** De AEX bestaat uit 30 bedrijven, en een paar heel grote wegen zwaar.
 
 Check bij elk fonds wat erin zit (les 3.3). Overlap kun je zien op ETF-vergelijkingssites.
 
