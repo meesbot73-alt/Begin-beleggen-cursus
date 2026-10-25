@@ -40,7 +40,7 @@ Module 1 is gratis. 14 dagen geld-terug-garantie.
 
 ### Mascotte
 
-De mascotte is dezelfde AI-animatieman als op het YouTube-kanaal (zie `assets/mascotte.png`): groen pak, bril, korte baard en een stropdas. Op de profielfoto is de das goud, in de analysevideo's blauw. Kies één vaste kleur voordat de cursusvideo's gemaakt worden.
+De mascotte is dezelfde AI-animatieman als op het YouTube-kanaal (zie `assets/mascotte.png`): groen pak, bril, korte baard en een gouden stropdas (#F2C14E). De gouden das is de standaard, ook in nieuwe video's.
 
 ### Videostijl
 
