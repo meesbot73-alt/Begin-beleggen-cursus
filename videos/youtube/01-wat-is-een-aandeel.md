@@ -54,7 +54,7 @@
 | 23 | 6:25 | Drie kaartjes verschijnen een voor een met de kernpunten. | "Samengevat. Eén: een aandeel is een stukje eigendom van een bedrijf. Twee: je verdient eraan via koersstijging en soms dividend. Drie: met één aandeel loop je veel risico, daarom spreiden veel beleggers." |
 | 24 | 6:45 | Eindscherm: links de volgende video "Wat is een ETF?", rechts abonneerknop. Mascotte zwaait. Tekst: "Gratis Startchecklist: link in de beschrijving". | "Wil je niet alleen snappen hoe beleggen werkt, maar ook echt beginnen? Haal de gratis Startchecklist en de eerste module van mijn cursus via de link hieronder. En kijk hierna de video over ETF's, want daar wordt het pas echt makkelijk. Tot zo!" |
 
-**Woorden voice-over:** ongeveer 1.000, bij een rustig tempo dus zo'n 7 minuten.
+**Woorden voice-over:** ongeveer 860. Bij een rustig tempo (zo'n 130 woorden per minuut) plus korte pauzes voor het beeld kom je op ongeveer 7 minuten.
 
 ## Beschrijving
 

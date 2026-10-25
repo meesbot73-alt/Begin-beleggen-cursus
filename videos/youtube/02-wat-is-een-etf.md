@@ -61,7 +61,7 @@
 | 28 | 7:20 | Drie kaartjes met de kernpunten. | "Samengevat. Eén: een ETF is een mand met aandelen van heel veel bedrijven, die je in één keer koopt. Twee: de meeste ETF's volgen een index en zijn daardoor goedkoop en simpel. Drie: je spreidt je risico, maar als de hele beurs daalt, daalt je ETF mee." |
 | 29 | 7:40 | Eindscherm: links de volgende video "Sparen of beleggen?", rechts abonneerknop. Mascotte zwaait. Tekst: "Gratis Startchecklist: link in de beschrijving". | "Wil je weten hoe je een ETF kiest, een broker vergelijkt en je eerste aankoop stap voor stap doet? Dat leer je in mijn cursus Beleggen Begint Hier. Begin met de gratis Startchecklist en de eerste module, via de link hieronder. Tot de volgende!" |
 
-**Woorden voice-over:** ongeveer 1.150, bij een rustig tempo dus zo'n 8 minuten.
+**Woorden voice-over:** ongeveer 975. Bij een rustig tempo (zo'n 130 woorden per minuut) plus korte pauzes voor het beeld kom je op ongeveer 8 minuten.
 
 ## Beschrijving
 
