@@ -50,14 +50,14 @@ Volgorde van uploaden, met de cursusles waar elke video naartoe leidt.
 | --- | --- | --- | --- |
 | 1 | Wat is een aandeel? Uitgelegd in 7 minuten | Module 3, les 1 | Script klaar: [01](youtube/01-wat-is-een-aandeel.md) |
 | 2 | Wat is een ETF? De makkelijkste manier om te beleggen uitgelegd | Module 3, les 3 | Script klaar: [02](youtube/02-wat-is-een-etf.md) |
-| 3 | Sparen of beleggen? Zo kies je (voor twintigers) | Module 1, les 1 | Basis: videoscript in les 1.1 |
-| 4 | Waarom je spaargeld elk jaar minder waard wordt | Module 1, les 2 | Basis: videoscript in les 1.2 |
-| 5 | Rente-op-rente: waarom beginnen op je 23e zo veel scheelt | Module 1, les 3 | Basis: videoscript in les 1.3 |
-| 6 | Is beleggen gokken? 4 verschillen | Module 1 + 5 | Nog schrijven |
-| 7 | Hoeveel geld heb je nodig om te beginnen met beleggen? | Module 2 | Nog schrijven |
-| 8 | Wat is een index (AEX, S&P 500, MSCI World)? | Module 3 | Nog schrijven |
-| 9 | Wat kost beleggen eigenlijk? Kosten die je niet ziet | Module 3, les 5 | Nog schrijven |
-| 10 | 5 beginnersfouten die ik je wil besparen | Module 5, les 2 | Nog schrijven |
+| 3 | Sparen of beleggen? Zo kies je (voor twintigers) | Module 1, les 1 | Script klaar: [03](youtube/03-sparen-of-beleggen.md) |
+| 4 | Waarom je spaargeld elk jaar minder waard wordt | Module 1, les 2 | Script klaar: [04](youtube/04-inflatie.md) |
+| 5 | Rente-op-rente: waarom beginnen op je 23e zo veel scheelt | Module 1, les 3 | Script klaar: [05](youtube/05-rente-op-rente.md) |
+| 6 | Is beleggen gokken? 4 verschillen | Module 1 + 5 | Script klaar: [06](youtube/06-is-beleggen-gokken.md) |
+| 7 | Hoeveel geld heb je nodig om te beginnen met beleggen? | Module 2 | Script klaar: [07](youtube/07-hoeveel-geld-nodig.md) |
+| 8 | Wat is een index (AEX, S&P 500, MSCI World)? | Module 3 | Script klaar: [08](youtube/08-wat-is-een-index.md) |
+| 9 | Wat kost beleggen eigenlijk? Kosten die je niet ziet | Module 3, les 5 | Script klaar: [09](youtube/09-wat-kost-beleggen.md) |
+| 10 | 5 beginnersfouten die ik je wil besparen | Module 5, les 2 | Script klaar: [10](youtube/10-beginnersfouten.md) |
 
 Tempo: **één lange video per week** (bijvoorbeeld elke zondag) plus **twee à drie shorts** per week uit dezelfde video. Begin pas met uploaden als video 1 tot en met 4 klaar zijn, zodat nieuwe kijkers meteen meer kunnen kijken.
 
