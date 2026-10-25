@@ -23,7 +23,7 @@ Maar in een derde van de gevallen was gespreid inleggen beter. En voor veel mens
 
 **Kort gezegd:**
 
-- Belegt je uit je salaris? Dan beleg je vanzelf periodiek. Mooi zo.
+- Beleg je uit je salaris? Dan beleg je vanzelf periodiek. Mooi zo.
 - Heb je een bedrag ineens en slaap je er rustig onder als het daalt? In één keer kan.
 - Maakt een daling vlak na je aankoop je onrustig? Spreid het bedrag over 3 tot 6 maanden.
 
