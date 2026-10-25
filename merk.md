@@ -37,3 +37,17 @@ Module 1 is gratis. 14 dagen geld-terug-garantie.
 - Eén vaste animatiemascotte met een Nederlandse AI-stem (bijv. ElevenLabs).
 - YouTube als gratis trechter: gratis video's, dan een gratis checklist in ruil voor een e-mailadres, dan een e-mailreeks van 5 mails, en dan de cursus.
 - Aandelenanalyses alleen educatief brengen, met disclaimer (AFM).
+
+### Mascotte
+
+De mascotte is dezelfde AI-animatieman als op het YouTube-kanaal (zie `assets/mascotte.png`): groen pak, bril, korte baard en een stropdas. Op de profielfoto is de das goud, in de analysevideo's blauw. Kies één vaste kleur voordat de cursusvideo's gemaakt worden.
+
+### Videostijl
+
+Goedgekeurd door Mees op 25-10-2026, op basis van de video "Besi Q3 2026":
+
+- De mascotte staat naast witte datakaarten met afgeronde hoeken en wijst de cijfers aan.
+- Bovenin staan een sectielabel en een voortgangsbalk in stappen, zodat de kijker ziet waar in de video hij is.
+- Ondertitels staan in donkergroene pillen onderin beeld.
+- Kerngetallen staan in losse KPI-vakken, en elke kaart met cijfers krijgt een bronregel.
+- In de videoscripts beschrijft de kolom "Beeld" welke kaart er in beeld staat en wat de mascotte aanwijst.
