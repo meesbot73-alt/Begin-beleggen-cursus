@@ -39,11 +39,11 @@
 | 7 | 1:45 | Een kleine Nederlandse vlag naast een enorme wereldbol. | "Maar let op: dertig bedrijven uit één klein land. Dat is voor beleggers niet heel breed gespreid." |
 | 8 | 2:05 | Grote "S&P 500" met een Amerikaanse vlag. Een zee van 500 gebouwtjes. | "Dan de S&P 500. Daarin zitten zo'n vijfhonderd grote Amerikaanse bedrijven. Veel bekende techbedrijven, maar ook banken, supermarkten en fabrikanten. Het is de bekendste index ter wereld." |
 | 9 | 2:25 | Een wereldkaart waarop alleen de VS oplicht. | "Vijfhonderd bedrijven is veel. Maar het zijn wel allemaal Amerikaanse bedrijven." |
-| 10 | 2:40 | Grote "MSCI World". Een wereldkaart waarop Noord-Amerika, Europa, Japan en Australië oplichten. Teller: "± 1.400 bedrijven, 23 landen". | "Daarom kijken veel beleggers naar wereldindexen. De bekendste is de MSCI World. Daarin zitten zo'n veertienhonderd grote en middelgrote bedrijven uit drieëntwintig ontwikkelde landen. Amerika, Europa, Japan, Australië en nog meer." |
+| 10 | 2:40 | Grote "MSCI World". Een wereldkaart waarop Noord-Amerika, Europa, Japan en Australië oplichten. Teller: "± 1.280 bedrijven, 23 landen". | "Daarom kijken veel beleggers naar wereldindexen. De bekendste is de MSCI World. Daarin zitten zo'n twaalfhonderdtachtig grote en middelgrote bedrijven uit drieëntwintig ontwikkelde landen. Amerika, Europa, Japan, Australië en nog meer." |
 | 11 | 3:05 | Extra landen lichten op: China, India, Brazilië en andere. Label: "Opkomende landen". | "Let op: opkomende landen zoals China, India en Brazilië zitten daar niet in. Er zijn ook indexen die die landen wél meenemen. Dan kom je op duizenden bedrijven uit de hele wereld. Die heten bijvoorbeeld All-World of All Country." |
 | 12 | 3:25 | Gouden kader onderin: "Gratis Startchecklist: link in de beschrijving". | "Tussendoor: wil je alle stappen voor je start op een rij? Download mijn gratis Startchecklist. De link staat in de beschrijving." |
 | 13 | 3:35 | Een taart verdeeld in punten van verschillende grootte. De grootste punten hebben de grootste bedrijfslogo's (fictief). | "Nog iets belangrijks: in de meeste indexen telt niet elk bedrijf even zwaar mee. Hoe groter een bedrijf op de beurs, hoe groter zijn stuk van de taart. Dat heet weging naar marktwaarde." |
-| 14 | 4:00 | De wereldtaart: een heel groot stuk met een Amerikaanse vlag, kleinere stukken voor Europa, Japan en de rest. Label: "± 70% VS". | "Daardoor zit er in de MSCI World ongeveer zeventig procent Amerikaanse bedrijven. Niet omdat iemand dat zo gekozen heeft, maar omdat de grootste bedrijven ter wereld op dit moment vaak Amerikaans zijn. Goed om te weten: ook een wereldindex is niet helemaal gelijk verdeeld." |
+| 14 | 4:00 | De wereldtaart: een heel groot stuk met een Amerikaanse vlag, kleinere stukken voor Europa, Japan en de rest. Label: "ruim 70% VS". | "Daardoor zit er in de MSCI World ruim zeventig procent Amerikaanse bedrijven. Niet omdat iemand dat zo gekozen heeft, maar omdat de grootste bedrijven ter wereld op dit moment vaak Amerikaans zijn. Goed om te weten: ook een wereldindex is niet helemaal gelijk verdeeld." |
 | 15 | 4:30 | Mascotte probeert een index in een winkelmandje te stoppen. Het lukt niet: "Een index is alleen een lijst." | "Kun je een index nou kopen? Nee, niet direct. Een index is alleen een lijst en een getal. Maar er zijn fondsen die zo'n lijst precies nadoen. Dat zijn indexfondsen, en vaak zijn het ETF's." |
 | 16 | 4:50 | De fruitmand uit de ETF-video, met daarop het label van een index. | "Zo'n ETF koopt gewoon alle bedrijven die op de lijst staan, in dezelfde verhoudingen. Daardoor beweegt de ETF mee met de index. Dat heet indexbeleggen of passief beleggen. In mijn video over ETF's leg ik dat uitgebreid uit." |
 | 17 | 5:15 | Sam met telefoon, kijkt naar drie lijstjes: AEX, S&P 500, MSCI World. | "Sam kijkt ook naar die drie indexen. De AEX vindt Sam te smal, alleen dertig Nederlandse bedrijven. De S&P 500 is groter, maar alleen Amerika." |
@@ -94,7 +94,7 @@ Gratis Startchecklist + module 1: https://[jouwdomein]/start?bron=yt-index
 | Short | Scènes | Haak (eerste zin) |
 | --- | --- | --- |
 | 1 | 1, 3 tot 6 | "Wat betekent 'de AEX sloot 1% lager' eigenlijk?" |
-| 2 | 13 tot 14 | "In een wereldindex zit zo'n 70% Amerika. Hoe kan dat?" |
+| 2 | 13 tot 14 | "In een wereldindex zit ruim 70% Amerika. Hoe kan dat?" |
 | 3 | 6, 8, 10 | "AEX, S&P 500 en MSCI World in 45 seconden." |
 
 ## Om te checken vlak voor opname
