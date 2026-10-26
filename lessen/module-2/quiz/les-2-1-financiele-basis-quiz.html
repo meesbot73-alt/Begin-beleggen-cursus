@@ -1,0 +1,38 @@
+<div class="bbh-quiz" style="text-align:left;font-family:system-ui,sans-serif;color:#0F2A1F;background:#F3F7F4;border:1px solid #CFE9DC;border-radius:14px;padding:20px;max-width:720px">
+<div style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#1F6B4A;font-weight:800">Test jezelf · Les 2.1</div>
+<div class="bbh-body"></div>
+</div>
+<script>
+(function(){
+var Q=[{"q": "Wat is een veelgebruikte vuistregel voor de grootte van je buffer?", "o": ["1 maand netto salaris", "3 tot 6 maanden vaste lasten", "Een jaarsalaris"], "c": 1, "u": "Reken met 3 tot 6 maanden vaste lasten. Waar jij uitkomt, hangt af van je situatie."}, {"q": "Je vaste lasten zijn € 1.200 per maand en je hebt een tijdelijk contract. Welke buffer past het best?", "o": ["Ongeveer € 7.200 (6 maanden)", "Ongeveer € 3.600 (3 maanden)", "Ongeveer € 1.200 (1 maand)"], "c": 0, "u": "Met een tijdelijk contract is je inkomen minder zeker. Kies dan eerder 6 maanden: 6 × € 1.200 = € 7.200."}, {"q": "Je staat € 800 rood en hebt € 1.000 op je spaarrekening. Wat doe je eerst?", "o": ["Die € 1.000 beleggen", "Niets, rood staan is gratis", "De € 800 rood staan aflossen"], "c": 2, "u": "Rood staan kost al gauw 12% per jaar. Aflossen levert een gegarandeerde besparing op die je met beleggen niet haalt."}, {"q": "Je wilt over een halfjaar een nieuwe laptop. Waar haal je dat geld vandaan?", "o": ["Uit een apart spaardoel", "Uit je buffer", "Uit je beleggingen"], "c": 0, "u": "Een uitgave die je ziet aankomen, spaar je apart. Je buffer is voor het onverwachte."}];
+var root=document.currentScript.previousElementSibling.querySelector('.bbh-body');
+function render(){
+root.innerHTML='';var goed=0,klaar=0;
+Q.forEach(function(v,i){
+  var box=document.createElement('div');box.style.cssText='margin-top:18px';
+  var h=document.createElement('p');h.style.cssText='font-weight:700;margin:0 0 8px';h.textContent=(i+1)+'. '+v.q;box.appendChild(h);
+  var fb=document.createElement('p');fb.style.cssText='margin:8px 0 0;font-size:15px;display:none';
+  v.o.forEach(function(o,j){
+    var b=document.createElement('button');b.type='button';b.textContent=o;
+    b.style.cssText='display:block;width:100%;text-align:left;margin:6px 0;padding:12px 14px;min-height:44px;font:inherit;font-size:16px;border:2px solid #CFE9DC;border-radius:10px;background:#fff;color:#0F2A1F;cursor:pointer';
+    b.onclick=function(){
+      if(box.dataset.done)return;box.dataset.done=1;klaar++;
+      var bs=box.querySelectorAll('button');
+      bs[v.c].style.borderColor='#1F6B4A';bs[v.c].style.background='#CFE9DC';
+      if(j===v.c){goed++;fb.textContent='Goed! '+v.u;}else{b.style.borderColor='#B3261E';fb.textContent='Net niet. '+v.u;}
+      fb.style.display='block';
+      if(klaar===Q.length){score.textContent='Je score: '+goed+' van de '+Q.length+(goed===Q.length?'. Top, op naar de volgende les!':'. Lees de uitleg nog even terug en probeer het opnieuw.');score.style.display='block';opnieuw.style.display='inline-block';}
+    };
+    box.appendChild(b);
+  });
+  box.appendChild(fb);root.appendChild(box);
+});
+var score=document.createElement('p');score.style.cssText='display:none;margin:20px 0 10px;font-weight:800;font-size:18px;color:#1F6B4A';root.appendChild(score);
+var opnieuw=document.createElement('button');opnieuw.type='button';opnieuw.textContent='Opnieuw proberen';
+opnieuw.style.cssText='display:none;background:#F2C14E;color:#0F2A1F;border:0;border-radius:999px;padding:12px 22px;font:inherit;font-weight:800;cursor:pointer';
+opnieuw.onclick=render;
+root.appendChild(opnieuw);
+}
+render();
+})();
+</script>

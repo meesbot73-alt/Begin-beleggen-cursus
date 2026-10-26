@@ -162,16 +162,39 @@ Dan is sparen de beste keuze. Weet wel dat je dan koopkracht verliest door infla
 
 ## Test jezelf
 
-1. Welke van de drie kanten van risico wint als ze verschillen?
-2. Je hebt een horizon van 3 jaar en scoort 16 punten. Wat doe je?
-3. Waarom tellen je buffer en spaardoelen niet mee in je verdeling?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat zijn de drie kanten van je risicoprofiel?**
+
+- a) Kunnen, durven en nodig hebben
+- b) Sparen, beleggen en lenen
+- c) Kort, middellang en lang
+
+**2. De drie kanten geven een verschillend antwoord. Welke wint?**
+
+- a) De meest offensieve
+- b) Het gemiddelde
+- c) De voorzichtigste
+
+**3. Je hebt een horizon van 3 jaar en een hoge score op de test. Wat doe je?**
+
+- a) Sparen, want het is geen beleggingsgeld
+- b) Offensief beleggen
+- c) Neutraal beleggen
+
+**4. Telt je buffer mee in je verdeling over aandelen en obligaties?**
+
+- a) Ja, als deel obligaties
+- b) Nee, je buffer staat altijd op je spaarrekening
+- c) Ja, als deel aandelen
 
 <details>
 <summary>Antwoorden</summary>
 
-1. De voorzichtigste.
-2. Sparen. Met een horizon onder de 5 jaar is het geen beleggingsgeld, wat je score ook is.
-3. Omdat die altijd op een spaarrekening staan. Het profiel gaat alleen over geld dat je belegt.
+1. **a) Kunnen, durven en nodig hebben.** Hoeveel risico kún je dragen, hoeveel durf je, en hoeveel heb je nodig om je doel te halen?
+2. **c) De voorzichtigste.** Kies altijd de voorzichtigste. Een daling kun je alleen uitzitten als je er niet van in paniek raakt.
+3. **a) Sparen, want het is geen beleggingsgeld.** Met een horizon onder de 5 jaar is het geen beleggingsgeld, wat je score ook is.
+4. **b) Nee, je buffer staat altijd op je spaarrekening.** Je profiel gaat alleen over geld dat je belegt. Buffer en spaardoelen staan apart op een spaarrekening.
 
 </details>
 

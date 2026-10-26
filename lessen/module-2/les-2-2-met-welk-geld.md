@@ -150,16 +150,39 @@ Bij een broker met kosten per aankoop kan dat goedkoper zijn. In module 4 kijken
 
 ## Test jezelf
 
-1. Je netto inkomen is € 2.000, je vaste lasten zijn € 900 en je variabele uitgaven € 850. Hoeveel houd je over?
-2. Waarom zet je je spaargeld opzij op de dag ná je salaris en niet aan het eind van de maand?
-3. Je wilt over 2 jaar verhuizen en hebt daarvoor € 2.000 nodig. Spaar of beleg je dat geld?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Hoe lang moet je geld minimaal kunnen missen voordat je het belegt?**
+
+- a) 1 jaar
+- b) 5 jaar
+- c) Maakt niet uit
+
+**2. Netto € 2.000, vaste lasten € 900, variabele uitgaven € 850. Hoeveel houd je over?**
+
+- a) € 1.100
+- b) € 350
+- c) € 250
+
+**3. Wanneer zet je je spaar- en beleggingsgeld het best opzij?**
+
+- a) De dag na je salaris, automatisch
+- b) Aan het eind van de maand, met wat over is
+- c) Als je er zin in hebt
+
+**4. Wat zegt de 50/30/20-regel?**
+
+- a) 50% beleggen, 30% sparen, 20% uitgeven
+- b) 50% nodig, 30% leuk, 20% sparen en beleggen
+- c) 50% huur, 30% boodschappen, 20% leuk
 
 <details>
 <summary>Antwoorden</summary>
 
-1. € 250.
-2. Dan geef je het niet ongemerkt uit. Je leeft van wat er overblijft.
-3. Sparen. Twee jaar is korter dan 5 jaar.
+1. **b) 5 jaar.** Vijf jaar is het minimum, tien jaar of langer is nog beter. Dan hoef je niet te verkopen op een slecht moment.
+2. **c) € 250.** € 2.000 − € 900 − € 850 = € 250 per maand.
+3. **a) De dag na je salaris, automatisch.** Betaal jezelf eerst. Zo geef je het niet ongemerkt uit en leef je van wat overblijft.
+4. **b) 50% nodig, 30% leuk, 20% sparen en beleggen.** De helft voor wat je nodig hebt, 30% voor leuke dingen en 20% voor sparen en beleggen. Een richtlijn, geen wet.
 
 </details>
 

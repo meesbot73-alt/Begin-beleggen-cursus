@@ -149,16 +149,39 @@ Je kunt een deel ervan gebruiken om je buffer aan te vullen. Dat is vaak een sne
 
 ## Test jezelf
 
-1. Je vaste lasten zijn € 1.200 per maand en je hebt een tijdelijk contract. Hoe groot is je buffer ongeveer?
-2. Je staat € 800 rood en hebt € 1.000 op je spaarrekening. Wat doe je eerst?
-3. Waarom spaar je voor een nieuwe laptop apart, en niet uit je buffer?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat is een veelgebruikte vuistregel voor de grootte van je buffer?**
+
+- a) 1 maand netto salaris
+- b) 3 tot 6 maanden vaste lasten
+- c) Een jaarsalaris
+
+**2. Je vaste lasten zijn € 1.200 per maand en je hebt een tijdelijk contract. Welke buffer past het best?**
+
+- a) Ongeveer € 7.200 (6 maanden)
+- b) Ongeveer € 3.600 (3 maanden)
+- c) Ongeveer € 1.200 (1 maand)
+
+**3. Je staat € 800 rood en hebt € 1.000 op je spaarrekening. Wat doe je eerst?**
+
+- a) Die € 1.000 beleggen
+- b) Niets, rood staan is gratis
+- c) De € 800 rood staan aflossen
+
+**4. Je wilt over een halfjaar een nieuwe laptop. Waar haal je dat geld vandaan?**
+
+- a) Uit een apart spaardoel
+- b) Uit je buffer
+- c) Uit je beleggingen
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Eerder richting 6 maanden: ongeveer € 7.200.
-2. De € 800 rood staan aflossen. Dat bespaart je meer dan sparen of beleggen oplevert.
-3. Omdat je weet dat die uitgave eraan komt. Je buffer is voor het onverwachte.
+1. **b) 3 tot 6 maanden vaste lasten.** Reken met 3 tot 6 maanden vaste lasten. Waar jij uitkomt, hangt af van je situatie.
+2. **a) Ongeveer € 7.200 (6 maanden).** Met een tijdelijk contract is je inkomen minder zeker. Kies dan eerder 6 maanden: 6 × € 1.200 = € 7.200.
+3. **c) De € 800 rood staan aflossen.** Rood staan kost al gauw 12% per jaar. Aflossen levert een gegarandeerde besparing op die je met beleggen niet haalt.
+4. **a) Uit een apart spaardoel.** Een uitgave die je ziet aankomen, spaar je apart. Je buffer is voor het onverwachte.
 
 </details>
 

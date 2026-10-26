@@ -114,16 +114,39 @@ Drie jaar is kort. De kans dat je net op het verkeerde moment minder hebt, is gr
 
 ## Test jezelf
 
-1. Je wilt over 4 jaar een auto kopen. Welke horizon is dat, en spaar of beleg je?
-2. Waarom ga je afbouwen als je doel dichtbij komt?
-3. Maak het doel "ik wil later rijk zijn" concreet.
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat is je beleggingshorizon?**
+
+- a) Hoeveel geld je wilt beleggen
+- b) Hoe lang je je geld kunt laten staan tot je doel
+- c) Hoeveel rendement je verwacht
+
+**2. Je wilt over 4 jaar een auto kopen. Wat past het best?**
+
+- a) Meestal sparen, want het is middellang
+- b) Volledig beleggen in aandelen
+- c) Niets opzijzetten
+
+**3. Waarom bouw je je beleggingen af als je doel dichtbij komt?**
+
+- a) Omdat de kosten dan stijgen
+- b) Omdat het verplicht is
+- c) Zodat een daling vlak voor je doel je plannen niet verstoort
+
+**4. Welk doel is het meest concreet?**
+
+- a) Ik wil later rijk zijn
+- b) Op mijn 50e € 200.000 belegd hebben
+- c) Ik wil meer geld
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Middellang. Meestal sparen.
-2. Zodat een beursdaling vlak voor je het geld nodig hebt je plannen niet verstoort.
-3. Bijvoorbeeld: "Op mijn 50e € 200.000 aan beleggingen, zodat ik minder kan gaan werken." Bedrag en moment mag je zelf kiezen.
+1. **b) Hoe lang je je geld kunt laten staan tot je doel.** Je horizon is de tijd tot je het geld nodig hebt. Die bepaalt of je spaart of belegt.
+2. **a) Meestal sparen, want het is middellang.** Vier jaar is middellang (2 tot 5 jaar). Dan is sparen meestal verstandiger.
+3. **c) Zodat een daling vlak voor je doel je plannen niet verstoort.** Hoe korter de tijd tot je doel, hoe minder tijd je hebt om een daling uit te zitten.
+4. **b) Op mijn 50e € 200.000 belegd hebben.** Een goed doel heeft een bedrag en een moment. Dan kun je uitrekenen wat je per maand nodig hebt.
 
 </details>
 
