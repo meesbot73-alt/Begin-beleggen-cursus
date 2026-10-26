@@ -111,16 +111,39 @@ In een slecht jaar wel, of zelfs een paar slechte jaren achter elkaar. Over lang
 
 ## Test jezelf
 
-1. Je krijgt 1% spaarrente en de inflatie is 3%. Wat is ongeveer je reële rendement?
-2. Hoeveel jaar duurt het ongeveer tot prijzen verdubbelen bij 4% inflatie?
-3. Waarom is het geen probleem dat je buffer een beetje koopkracht verliest?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Je krijgt 1% spaarrente en de inflatie is 3%. Wat is ongeveer je reële rendement?**
+
+- a) +4%
+- b) +1%
+- c) −2%
+
+**2. Hoeveel jaar duurt het ongeveer tot prijzen verdubbelen bij 4% inflatie?**
+
+- a) 9 jaar
+- b) 18 jaar
+- c) 36 jaar
+
+**3. Rond welk percentage probeert de ECB de inflatie te houden?**
+
+- a) 0%
+- b) 5%
+- c) 2%
+
+**4. Waarom is het niet erg dat je buffer een beetje koopkracht verliest?**
+
+- a) Omdat je buffer er is voor zekerheid, niet voor rendement
+- b) Omdat inflatie altijd vanzelf weer daalt
+- c) Omdat de bank het verlies vergoedt
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Ongeveer −2% per jaar.
-2. 72 ÷ 4 = ongeveer 18 jaar.
-3. Omdat je buffer er is voor zekerheid: je moet er altijd direct bij kunnen, zonder risico op een daling.
+1. **c) −2%.** 1% rente min 3% inflatie is ongeveer −2%. Je kunt elk jaar minder kopen van je spaargeld.
+2. **b) 18 jaar.** Met de regel van 72: 72 ÷ 4 = 18 jaar.
+3. **c) 2%.** De ECB mikt op ongeveer 2% per jaar. Een beetje inflatie is gezond voor de economie.
+4. **a) Omdat je buffer er is voor zekerheid, niet voor rendement.** Je buffer moet je altijd direct kunnen gebruiken. Dat zekere gevoel is belangrijker dan een beetje rendement.
 
 </details>
 

@@ -135,16 +135,39 @@ Allebei kan. Daar gaan we in module 4 dieper op in.
 
 ## Test jezelf
 
-1. Waarom is de opbrengst in jaar 2 groter dan in jaar 1, terwijl het percentage gelijk blijft?
-2. Lisa legde € 12.000 in en Daan € 36.000. Waarom heeft Lisa op haar 65e toch meer?
-3. Je fonds kost 1% per jaar en een vergelijkbaar fonds 0,2%. Waarom maakt dat over 40 jaar zoveel uit?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Je belegt € 1.000 tegen 7% per jaar. Waarom is de opbrengst in jaar 2 groter dan in jaar 1?**
+
+- a) Omdat het percentage stijgt
+- b) Omdat je ook rendement maakt over de opbrengst van jaar 1
+- c) Omdat je extra geld inlegt
+
+**2. In hoeveel jaar verdubbelt je geld ongeveer bij 7% rendement per jaar?**
+
+- a) Ongeveer 10 jaar
+- b) Ongeveer 7 jaar
+- c) Ongeveer 20 jaar
+
+**3. Lisa legde € 12.000 in, Daan € 36.000. Waarom heeft Lisa op haar 65e toch meer?**
+
+- a) Ze koos betere aandelen
+- b) Ze betaalde minder belasting
+- c) Haar geld had 10 jaar langer de tijd om te groeien
+
+**4. Fonds A kost 1% per jaar, fonds B 0,2%. Waarom maakt dat over 40 jaar zoveel uit?**
+
+- a) Je mist ook het rendement over de kosten die je betaalde
+- b) Dure fondsen zijn altijd slechter
+- c) Het maakt eigenlijk weinig uit
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Omdat je in jaar 2 ook rendement maakt over de opbrengst van jaar 1.
-2. Omdat haar geld 10 jaar langer de tijd had om te groeien. Tijd telt zwaarder dan het bedrag.
-3. Omdat je niet alleen de kosten kwijt bent, maar ook al het rendement dat je daar in de jaren erna over had gemaakt.
+1. **b) Omdat je ook rendement maakt over de opbrengst van jaar 1.** In jaar 2 reken je 7% over € 1.070 in plaats van € 1.000. Dat is rente-op-rente.
+2. **a) Ongeveer 10 jaar.** Met de regel van 72: 72 ÷ 7 = ongeveer 10 jaar.
+3. **c) Haar geld had 10 jaar langer de tijd om te groeien.** Lisa begon 10 jaar eerder. Bij rente-op-rente telt tijd zwaarder dan het bedrag dat je inlegt.
+4. **a) Je mist ook het rendement over de kosten die je betaalde.** Kosten groeien net zo goed mee als rendement: elke euro kosten kan geen rente-op-rente meer opleveren.
 
 </details>
 

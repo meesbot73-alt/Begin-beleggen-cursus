@@ -120,16 +120,39 @@ Vroeger was het duur en ingewikkeld. Tegenwoordig kan iedereen met een smartphon
 
 ## Test jezelf
 
-1. Waarom hoort je buffer op een spaarrekening en niet in beleggingen?
-2. Noem twee manieren waarop je geld kunt verdienen met beleggen.
-3. Je wilt over 2 jaar op reis. Spaar of beleg je voor die reis?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Waar hoort je buffer voor onverwachte uitgaven?**
+
+- a) Op een spaarrekening
+- b) In een ETF
+- c) In losse aandelen
+
+**2. Op welke twee manieren kun je geld verdienen met beleggen?**
+
+- a) Spaarrente en dividend
+- b) Koersstijging en spaarrente
+- c) Koersstijging en dividend
+
+**3. Je wilt over 2 jaar op reis. Wat doe je met het geld daarvoor?**
+
+- a) Beleggen, dan wordt het meer
+- b) Sparen, want 2 jaar is te kort
+- c) De helft van elk
+
+**4. Tot welk bedrag is je spaargeld per bank beschermd door het depositogarantiestelsel?**
+
+- a) € 100.000
+- b) € 20.000
+- c) Onbeperkt
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Omdat je er direct bij moet kunnen, zonder het risico dat de waarde net gedaald is.
-2. Koersstijging en dividend.
-3. Sparen. Twee jaar is te kort om schommelingen uit te zitten.
+1. **a) Op een spaarrekening.** Je buffer moet er altijd direct zijn, zonder risico dat de waarde net gedaald is.
+2. **c) Koersstijging en dividend.** Een aandeel kan meer waard worden (koersstijging) en een bedrijf kan een deel van de winst uitkeren (dividend).
+3. **b) Sparen, want 2 jaar is te kort.** Twee jaar is te kort om een daling op de beurs uit te zitten. Geld dat je binnen een paar jaar nodig hebt, spaar je.
+4. **a) € 100.000.** Het depositogarantiestelsel beschermt spaargeld tot € 100.000 per persoon per bank.
 
 </details>
 
