@@ -48,19 +48,19 @@ Neem de rij van € 100 per maand over 40 jaar. Je legt zelf **€ 48.000** in. 
 
 ## Waarom tijd zo belangrijk is
 
-### Lisa en Daan
+### Lisa en Tom
 
 Twee vrienden beleggen allebei € 100 per maand en halen gemiddeld 7% per jaar.
 
 - **Lisa** begint op haar 25e, belegt 10 jaar lang en stopt dan met inleggen. Ze laat het geld wel staan. Totaal ingelegd: **€ 12.000**.
-- **Daan** begint op zijn 35e en blijft 30 jaar lang inleggen. Totaal ingelegd: **€ 36.000**.
+- **Tom** begint op zijn 35e en blijft 30 jaar lang inleggen. Totaal ingelegd: **€ 36.000**.
 
 Op hun 65e:
 
 | | Ingelegd | Waarde op 65e |
 | --- | --- | --- |
-| Lisa (25 tot 35) | € 12.000 | ongeveer € 132.000 |
-| Daan (35 tot 65) | € 36.000 | ongeveer € 122.000 |
+| Lisa (25 tot 35) | € 12.000 | ongeveer € 140.000 |
+| Tom (35 tot 65) | € 36.000 | ongeveer € 122.000 |
 
 Lisa legde drie keer zo weinig in, maar heeft méér. Haar geld had gewoon 10 jaar langer de tijd om te groeien.
 
@@ -149,7 +149,7 @@ Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
 - b) Ongeveer 7 jaar
 - c) Ongeveer 20 jaar
 
-**3. Lisa legde € 12.000 in, Daan € 36.000. Waarom heeft Lisa op haar 65e toch meer?**
+**3. Lisa legde € 12.000 in, Tom € 36.000. Waarom heeft Lisa op haar 65e toch meer?**
 
 - a) Ze koos betere aandelen
 - b) Ze betaalde minder belasting
@@ -185,8 +185,8 @@ Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
 | 2 | Sneeuwbal rolt naar beneden en wordt steeds groter | "Een sneeuwbal die van een berg rolt, pakt bij elke draai sneeuw op. Hoe groter hij wordt, hoe sneller hij groeit. Met je geld gaat het precies zo." |
 | 3 | Tabel € 1.000 jaar 1 tot 3, bedragen lichten op | "Duizend euro met zeven procent rendement wordt na een jaar 1.070 euro. In jaar twee verdien je ook over die zeventig euro. Elk jaar komt er dus iets meer bij." |
 | 4 | Staven voor 10, 20 en 30 jaar die snel groeien | "Na tien jaar heb je bijna het dubbele. Na dertig jaar ruim zevenduizend euro. Zonder dat je er iets voor hoeft te doen." |
-| 5 | Lisa en Daan naast elkaar met een tijdlijn | "Dit zijn Lisa en Daan. Lisa belegt van haar 25e tot haar 35e honderd euro per maand en stopt dan. Daan begint op zijn 35e en gaat dertig jaar door." |
-| 6 | Twee bedragen verschijnen: € 132.000 en € 122.000 | "Op hun 65e heeft Lisa meer, terwijl ze drie keer zo weinig inlegde. Waarom? Haar geld had tien jaar langer de tijd." |
+| 5 | Lisa en Tom naast elkaar met een tijdlijn | "Dit zijn Lisa en Tom. Lisa belegt van haar 25e tot haar 35e honderd euro per maand en stopt dan. Tom begint op zijn 35e en gaat dertig jaar door." |
+| 6 | Twee bedragen verschijnen: € 140.000 en € 122.000 | "Op hun 65e heeft Lisa meer, terwijl ze drie keer zo weinig inlegde. Waarom? Haar geld had tien jaar langer de tijd." |
 | 7 | Een muntje dat elk jaar een hapje uit de sneeuwbal neemt | "Pas wel op voor kosten. Eén procent per jaar lijkt weinig, maar over veertig jaar kan het je tienduizenden euro's kosten." |
 | 8 | Drie gouden regels in beeld | "Onthoud drie regels: begin vroeg, laat het staan en houd je kosten laag." |
 | 9 | Mascotte zwaait, tekst "Module 2" | "Daarmee weet je waarom beleggen slim is. In module 2 kijken we of jij er klaar voor bent. Tot zo!" |
