@@ -11,7 +11,7 @@ Dit is de module waarin het echt gebeurt. Je kiest een broker, opent een rekenin
 
 Extra:
 
-- [Bijlage: brokers vergeleken](bijlage-brokervergelijking.md), met een neutrale, gedateerde vergelijking van vijf partijen.
+- [Bijlage: brokers vergeleken](bijlage-brokervergelijking.md), met een neutrale, gedateerde vergelijking van zes partijen.
 - Je [werkblad uit module 2](../module-2/werkblad-financiele-check.md) en het kostenblad uit [les 3.5](../module-3/les-3-5-kosten.md) heb je in deze module nodig.
 
 Na deze module:

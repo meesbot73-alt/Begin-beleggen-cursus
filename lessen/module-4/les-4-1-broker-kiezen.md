@@ -79,7 +79,7 @@ Sommige brokers bieden extra's. Die kunnen fijn zijn, maar zijn nooit de reden o
 
 ## De echte brokers naast elkaar
 
-In de [bijlage](bijlage-brokervergelijking.md) vind je vijf partijen die veel gebruikt worden door beginners, op deze criteria naast elkaar gezet. Die vergelijking heeft een peildatum en wordt bijgewerkt. Kijk altijd ook zelf op de tarievenpagina, want tarieven veranderen.
+In de [bijlage](bijlage-brokervergelijking.md) vind je zes partijen die veel gebruikt worden door beginners, op deze criteria naast elkaar gezet. Die vergelijking heeft een peildatum en wordt bijgewerkt. Kijk altijd ook zelf op de tarievenpagina, want tarieven veranderen.
 
 ## Het keuzeblad
 
