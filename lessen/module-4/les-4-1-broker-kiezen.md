@@ -139,16 +139,39 @@ Niet als je eenvoudig belegt in brede fondsen en het plan in deze cursus volgt. 
 
 ## Test jezelf
 
-1. Wat check je als eerste bij een broker?
-2. Je belegt € 50 per maand. Waarom is een broker met een gratis beleggingsplan dan vaak voordeliger?
-3. Waarom kies je een broker niet op een welkomstactie?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat check je als eerste bij een broker?**
+
+- a) Of er een welkomstbonus is
+- b) Of de app er mooi uitziet
+- c) Of hij een vergunning heeft en je beleggingen apart bewaart
+
+**2. Je belegt € 50 per maand. Waarom is een gratis beleggingsplan dan vaak voordelig?**
+
+- a) Omdat vaste kosten per aankoop bij kleine bedragen zwaar wegen
+- b) Omdat je dan meer rendement krijgt
+- c) Omdat het verplicht is
+
+**3. Waarom kies je een broker niet op een welkomstactie?**
+
+- a) Omdat acties verboden zijn
+- b) Omdat een eenmalig cadeau in het niet valt bij jaren aan kosten en aanbod
+- c) Omdat je het cadeau moet terugbetalen
+
+**4. Is er één beste broker voor iedereen?**
+
+- a) Ja, de goedkoopste
+- b) Ja, de grootste
+- c) Nee, het hangt af van jouw bedrag, manier van beleggen en fondsen
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Of de broker een vergunning heeft en je beleggingen apart bewaart.
-2. Omdat vaste kosten per aankoop bij kleine bedragen zwaar wegen. Een plan zonder kosten per aankoop scheelt dan veel.
-3. Omdat een eenmalig cadeau in het niet valt bij de kosten, de veiligheid en het aanbod over vele jaren.
+1. **c) Of hij een vergunning heeft en je beleggingen apart bewaart.** Veiligheid eerst: een vergunning van een toezichthouder en beleggingen die apart van het geld van de broker worden bewaard.
+2. **a) Omdat vaste kosten per aankoop bij kleine bedragen zwaar wegen.** € 1 kosten op € 50 is al 2%. Een plan zonder kosten per aankoop scheelt dan veel.
+3. **b) Omdat een eenmalig cadeau in het niet valt bij jaren aan kosten en aanbod.** Je zit jaren bij je broker. Kosten, veiligheid en het aanbod wegen veel zwaarder dan een eenmalige bonus.
+4. **c) Nee, het hangt af van jouw bedrag, manier van beleggen en fondsen.** De beste broker is degene die past bij jouw situatie. Daarom vul je in deze les een keuzeblad in.
 
 </details>
 

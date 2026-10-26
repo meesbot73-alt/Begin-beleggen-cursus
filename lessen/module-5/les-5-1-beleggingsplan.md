@@ -111,16 +111,39 @@ Alleen na de 48-uursregel en als je het daarna nog steeds een goed idee vindt. E
 
 ## Test jezelf
 
-1. Waarom schrijf je je plan op een rustig moment?
-2. Maak de regel "ik ga niet te veel handelen" concreet.
-3. Waarom spreek je een maximum af voor een speelpot?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat staat er in een beleggingsplan?**
+
+- a) Welke aandelen morgen stijgen
+- b) Waarom je belegt, wat je koopt, hoeveel je inlegt en wat je doet als het tegenzit
+- c) Alleen je rekeningnummer
+
+**2. Waarom schrijf je je plan op een rustig moment?**
+
+- a) Zodat je in een onrustig moment kunt doen wat je al besloot
+- b) Omdat de beurs dan dicht is
+- c) Omdat het dan sneller gaat
+
+**3. Welke regel is het meest concreet?**
+
+- a) Ik ga niet te veel handelen
+- b) Ik let goed op
+- c) Ik verkoop maximaal één keer per jaar, alleen bij herbalanceren
+
+**4. Waarom spreek je een maximum af voor een speelpot?**
+
+- a) Zodat een experiment dat misgaat je doelen niet raakt
+- b) Omdat het verplicht is
+- c) Zodat je meer rendement haalt
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Zodat je in een onrustig moment niet hoeft na te denken, maar kunt doen wat je al hebt besloten.
-2. Bijvoorbeeld: "Ik verkoop maximaal één keer per jaar iets, en alleen bij herbalanceren of als een doel dichtbij komt."
-3. Zodat een experiment dat misgaat je doelen niet raakt.
+1. **b) Waarom je belegt, wat je koopt, hoeveel je inlegt en wat je doet als het tegenzit.** Een plan van één of twee pagina's met je doelen, je keuzes en je spelregels voor als het tegenzit.
+2. **a) Zodat je in een onrustig moment kunt doen wat je al besloot.** In paniek denk je niet helder. Met een plan hoef je dan niet na te denken, alleen te doen wat er staat.
+3. **c) Ik verkoop maximaal één keer per jaar, alleen bij herbalanceren.** Een goede regel kun je controleren. Dan weet je precies wanneer je je eraan houdt.
+4. **a) Zodat een experiment dat misgaat je doelen niet raakt.** Wil je experimenteren, houd dat dan klein en apart van het geld voor je doelen.
 
 </details>
 

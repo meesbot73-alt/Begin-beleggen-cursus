@@ -1,0 +1,38 @@
+<div class="bbh-quiz" style="text-align:left;font-family:system-ui,sans-serif;color:#0F2A1F;background:#F3F7F4;border:1px solid #CFE9DC;border-radius:14px;padding:20px;max-width:720px">
+<div style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#1F6B4A;font-weight:800">Test jezelf · Les 5.1</div>
+<div class="bbh-body"></div>
+</div>
+<script>
+(function(){
+var Q=[{"q": "Wat staat er in een beleggingsplan?", "o": ["Welke aandelen morgen stijgen", "Waarom je belegt, wat je koopt, hoeveel je inlegt en wat je doet als het tegenzit", "Alleen je rekeningnummer"], "c": 1, "u": "Een plan van één of twee pagina's met je doelen, je keuzes en je spelregels voor als het tegenzit."}, {"q": "Waarom schrijf je je plan op een rustig moment?", "o": ["Zodat je in een onrustig moment kunt doen wat je al besloot", "Omdat de beurs dan dicht is", "Omdat het dan sneller gaat"], "c": 0, "u": "In paniek denk je niet helder. Met een plan hoef je dan niet na te denken, alleen te doen wat er staat."}, {"q": "Welke regel is het meest concreet?", "o": ["Ik ga niet te veel handelen", "Ik let goed op", "Ik verkoop maximaal één keer per jaar, alleen bij herbalanceren"], "c": 2, "u": "Een goede regel kun je controleren. Dan weet je precies wanneer je je eraan houdt."}, {"q": "Waarom spreek je een maximum af voor een speelpot?", "o": ["Zodat een experiment dat misgaat je doelen niet raakt", "Omdat het verplicht is", "Zodat je meer rendement haalt"], "c": 0, "u": "Wil je experimenteren, houd dat dan klein en apart van het geld voor je doelen."}];
+var root=document.currentScript.previousElementSibling.querySelector('.bbh-body');
+function render(){
+root.innerHTML='';var goed=0,klaar=0;
+Q.forEach(function(v,i){
+  var box=document.createElement('div');box.style.cssText='margin-top:18px';
+  var h=document.createElement('p');h.style.cssText='font-weight:700;margin:0 0 8px';h.textContent=(i+1)+'. '+v.q;box.appendChild(h);
+  var fb=document.createElement('p');fb.style.cssText='margin:8px 0 0;font-size:15px;display:none';
+  v.o.forEach(function(o,j){
+    var b=document.createElement('button');b.type='button';b.textContent=o;
+    b.style.cssText='display:block;width:100%;text-align:left;margin:6px 0;padding:12px 14px;min-height:44px;font:inherit;font-size:16px;border:2px solid #CFE9DC;border-radius:10px;background:#fff;color:#0F2A1F;cursor:pointer';
+    b.onclick=function(){
+      if(box.dataset.done)return;box.dataset.done=1;klaar++;
+      var bs=box.querySelectorAll('button');
+      bs[v.c].style.borderColor='#1F6B4A';bs[v.c].style.background='#CFE9DC';
+      if(j===v.c){goed++;fb.textContent='Goed! '+v.u;}else{b.style.borderColor='#B3261E';fb.textContent='Net niet. '+v.u;}
+      fb.style.display='block';
+      if(klaar===Q.length){score.textContent='Je score: '+goed+' van de '+Q.length+(goed===Q.length?'. Top, op naar de volgende les!':'. Lees de uitleg nog even terug en probeer het opnieuw.');score.style.display='block';opnieuw.style.display='inline-block';}
+    };
+    box.appendChild(b);
+  });
+  box.appendChild(fb);root.appendChild(box);
+});
+var score=document.createElement('p');score.style.cssText='display:none;margin:20px 0 10px;font-weight:800;font-size:18px;color:#1F6B4A';root.appendChild(score);
+var opnieuw=document.createElement('button');opnieuw.type='button';opnieuw.textContent='Opnieuw proberen';
+opnieuw.style.cssText='display:none;background:#F2C14E;color:#0F2A1F;border:0;border-radius:999px;padding:12px 22px;font:inherit;font-weight:800;cursor:pointer';
+opnieuw.onclick=render;
+root.appendChild(opnieuw);
+}
+render();
+})();
+</script>

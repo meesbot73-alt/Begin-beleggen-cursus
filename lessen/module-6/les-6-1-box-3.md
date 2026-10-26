@@ -140,16 +140,39 @@ Er zijn regels tegen schuiven met geld rond de peildatum. Doe het niet alleen vo
 
 ## Test jezelf
 
-1. Je hebt op 1 januari 2026 € 40.000 aan spaargeld en beleggingen samen. Betaal je box 3-belasting?
-2. Je hebt € 20.000 aan beleggingen boven de vrijstelling, en verder niets. Hoeveel belasting betaal je ongeveer?
-3. Je broker is Duits. Waar let je op bij je aangifte?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Waarover betaal je in box 3 belasting?**
+
+- a) Over de winst als je verkoopt
+- b) Over je vermogen op 1 januari
+- c) Over elke aankoop
+
+**2. Je hebt op 1 januari 2026 € 40.000 aan spaargeld en beleggingen. Betaal je box 3-belasting?**
+
+- a) Nee, je zit onder het heffingsvrij vermogen
+- b) Ja, 36%
+- c) Ja, over je beleggingen
+
+**3. Je hebt € 20.000 aan beleggingen boven de vrijstelling. Hoeveel belasting betaal je ongeveer?**
+
+- a) € 7.200
+- b) € 1.200
+- c) € 432
+
+**4. Je broker is Duits. Waar let je op bij je aangifte?**
+
+- a) Dat je dan geen belasting betaalt
+- b) Dat je beleggingen waarschijnlijk niet vooraf zijn ingevuld
+- c) Dat je in Duitsland aangifte doet
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Nee, je zit onder het heffingsvrij vermogen van € 59.357. Je moet het wel opgeven.
-2. Ongeveer € 20.000 × 6% × 36% = € 432.
-3. Dat je beleggingen waarschijnlijk niet vooraf zijn ingevuld. Je vult ze zelf in, met de waarde op 1 januari van je jaaroverzicht.
+1. **b) Over je vermogen op 1 januari.** In Nederland wordt je vermogen op 1 januari belast, niet de winst bij verkoop.
+2. **a) Nee, je zit onder het heffingsvrij vermogen.** Het heffingsvrij vermogen is in 2026 € 59.357 per persoon. Je moet het wel opgeven in je aangifte.
+3. **c) € 432.** € 20.000 × 6% forfaitair rendement × 36% = € 432.
+4. **b) Dat je beleggingen waarschijnlijk niet vooraf zijn ingevuld.** Buitenlandse brokers geven je gegevens meestal niet door. Je vult de waarde op 1 januari zelf in.
 
 </details>
 

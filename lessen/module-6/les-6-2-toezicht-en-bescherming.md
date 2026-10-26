@@ -125,16 +125,39 @@ Dat verschilt. Het kan weken tot maanden duren. In die tijd kun je meestal niet 
 
 ## Test jezelf
 
-1. Je broker gaat failliet. Wat gebeurt er met je ETF's?
-2. Je ETF daalt 25%. Krijg je dat vergoed uit het beleggerscompensatiestelsel?
-3. Een "beleggingsclub" op WhatsApp belooft vaste winst. Wat check je?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Je broker gaat failliet. Wat gebeurt er met je ETF's?**
+
+- a) Ze vallen niet in het faillissement, want ze worden apart bewaard
+- b) Je bent ze kwijt
+- c) Ze worden verkocht voor de schuldeisers
+
+**2. Je ETF daalt 25%. Krijg je dat vergoed uit het beleggerscompensatiestelsel?**
+
+- a) Ja, helemaal
+- b) Ja, tot € 20.000
+- c) Nee, koersverlies is altijd je eigen risico
+
+**3. Tot welk bedrag beschermt het depositogarantiestelsel je geld bij een bank?**
+
+- a) € 20.000
+- b) € 100.000
+- c) Onbeperkt
+
+**4. Een 'beleggingsclub' op WhatsApp belooft vaste winst. Wat check je?**
+
+- a) Het register en de waarschuwingslijst van de AFM
+- b) Hoeveel leden de groep heeft
+- c) Of de beheerder een mooie auto heeft
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Ze vallen niet in het faillissement, omdat ze apart bewaard worden. Ze worden overgedragen of teruggegeven.
-2. Nee. Koersverlies is altijd je eigen risico.
-3. Het register en de waarschuwingslijst van de AFM. En: vaste winst bij beleggen bestaat niet, dus dit is vrijwel zeker oplichting.
+1. **a) Ze vallen niet in het faillissement, want ze worden apart bewaard.** Je beleggingen staan apart van het geld van de broker. Ze worden overgedragen of teruggegeven.
+2. **c) Nee, koersverlies is altijd je eigen risico.** Het stelsel is er voor als een broker je beleggingen niet kan teruggeven, niet voor koersdalingen.
+3. **b) € 100.000.** Tot € 100.000 per persoon per bank. Dat geldt voor geld, niet voor beleggingen.
+4. **a) Het register en de waarschuwingslijst van de AFM.** Vaste winst bij beleggen bestaat niet. Dit is vrijwel zeker oplichting.
 
 </details>
 

@@ -146,16 +146,39 @@ Je hoeft niet alles te negeren. Maar beursnieuws gaat over vandaag, en jij beleg
 
 ## Test jezelf
 
-1. Je wilt pas verkopen als je weer op je aankoopkoers staat. Welke denkfout is dat?
-2. Waarom kan het missen van een paar goede beursdagen zoveel rendement kosten?
-3. Iemand op Instagram belooft 5% rendement per week. Wat doe je?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Je wilt pas verkopen als je weer op je aankoopkoers staat. Welke denkfout is dat?**
+
+- a) Kuddegedrag
+- b) Ankeren
+- c) Overmoed
+
+**2. Waarom kan het missen van een paar goede beursdagen veel rendement kosten?**
+
+- a) Omdat dan de kosten stijgen
+- b) Omdat de beurs dan dichtgaat
+- c) Omdat veel rendement op weinig dagen wordt gemaakt, vaak vlak na de slechtste
+
+**3. Iemand op Instagram belooft 5% rendement per week. Wat doe je?**
+
+- a) Niets, het is vrijwel zeker oplichting
+- b) Een klein bedrag proberen
+- c) Je vrienden ook laten meedoen
+
+**4. Wat is de grootste vijand van je rendement volgens deze les?**
+
+- a) De beurs
+- b) Je eigen hoofd: emoties en denkfouten
+- c) De broker
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Ankeren.
-2. Omdat een groot deel van het rendement op een klein aantal dagen wordt gemaakt, en die dagen vallen vaak vlak na de slechtste.
-3. Niets. Het is vrijwel zeker oplichting. Check eventueel de waarschuwingslijst van de AFM.
+1. **b) Ankeren.** Je aankoopkoers wordt een anker in je hoofd, terwijl die voor de toekomst niets zegt.
+2. **c) Omdat veel rendement op weinig dagen wordt gemaakt, vaak vlak na de slechtste.** Wie in paniek verkoopt, mist vaak juist de sterke herstel-dagen.
+3. **a) Niets, het is vrijwel zeker oplichting.** Zulke rendementen bestaan niet. Check eventueel de waarschuwingslijst van de AFM.
+4. **b) Je eigen hoofd: emoties en denkfouten.** De meeste fouten maken we zelf, door paniek, hebzucht of kuddegedrag. Een plan helpt daartegen.
 
 </details>
 

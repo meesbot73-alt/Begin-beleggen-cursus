@@ -155,16 +155,39 @@ Doe dat bij de jaarlijkse check, na het opnieuw doen van de test. Niet tijdens o
 
 ## Test jezelf
 
-1. Je doel is 80/20, en je staat op 87% aandelen. Wat doe je?
-2. Waarom is herbalanceren met nieuwe inleg vaak handiger dan verkopen?
-3. Je hebt € 20.000 belegd met als doel 60/40, en er zit € 14.000 in aandelen. Hoeveel moet er verschuiven?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat betekent herbalanceren?**
+
+- a) Alles verkopen en opnieuw beginnen
+- b) Je verdeling weer rechtzetten naar wat je had afgesproken
+- c) Van broker wisselen
+
+**2. Je doel is 80/20 en je staat op 87% aandelen. Wat doe je?**
+
+- a) Herbalanceren, want je zit meer dan 5 procentpunt boven je doel
+- b) Niets, hoe meer aandelen hoe beter
+- c) Alles naar obligaties
+
+**3. Waarom is herbalanceren met nieuwe inleg vaak handiger dan verkopen?**
+
+- a) Omdat verkopen verboden is
+- b) Omdat het meer rendement geeft
+- c) Omdat je dan geen verkoopkosten betaalt
+
+**4. € 20.000 belegd, doel 60/40, er zit € 14.000 in aandelen. Hoeveel moet er verschuiven?**
+
+- a) € 4.000
+- b) € 2.000
+- c) € 6.000
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Je zit meer dan 5 procentpunt boven je doel. Je herbalanceert: je zet nieuwe inleg in obligaties of verkoopt een deel van je aandelen.
-2. Omdat je dan geen verkoopkosten betaalt en niets hoeft te verkopen.
-3. Het doel is 60% van € 20.000 = € 12.000 in aandelen. Er moet € 2.000 van aandelen naar obligaties.
+1. **b) Je verdeling weer rechtzetten naar wat je had afgesproken.** Aandelen en obligaties bewegen niet even hard. Herbalanceren zet je verdeling terug naar je plan.
+2. **a) Herbalanceren, want je zit meer dan 5 procentpunt boven je doel.** Bij meer dan 5 procentpunt afwijking zet je de verdeling recht, met nieuwe inleg of door een deel te verkopen.
+3. **c) Omdat je dan geen verkoopkosten betaalt.** Je stuurt je nieuwe inleg naar het deel dat achterloopt. Dan hoef je niets te verkopen.
+4. **b) € 2.000.** 60% van € 20.000 is € 12.000. Er moet € 2.000 van aandelen naar obligaties.
 
 </details>
 

@@ -143,16 +143,39 @@ Soms ontbreekt er informatie of is een foto onscherp. Neem contact op met de bro
 
 ## Test jezelf
 
-1. Waarom stelt een broker vragen over je kennis en ervaring?
-2. Wat doet het W-8BEN-formulier?
-3. Je krijgt een sms van "je broker" met een link om je rekening te "beveiligen". Wat doe je?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat heb je meestal nodig om een beleggingsrekening te openen?**
+
+- a) Identiteitsbewijs, BSN en een bankrekening
+- b) Alleen je e-mailadres
+- c) Een loonstrook en een huurcontract
+
+**2. Waarom vraagt een broker naar je kennis en ervaring?**
+
+- a) Om je reclame te sturen
+- b) Omdat het wettelijk verplicht is, om je te beschermen
+- c) Om je kosten te bepalen
+
+**3. Wat doet het W-8BEN-formulier?**
+
+- a) Het opent je rekening in Amerika
+- b) Het verhoogt je dividend tot 30%
+- c) Er wordt 15% in plaats van 30% belasting ingehouden op Amerikaans dividend
+
+**4. Je krijgt een sms van 'je broker' met een link om je rekening te beveiligen. Wat doe je?**
+
+- a) Niet klikken, zelf inloggen via de officiële app
+- b) Snel op de link klikken
+- c) Je inloggegevens terug-sms'en
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Omdat het wettelijk verplicht is om te controleren of beleggen en de producten bij je passen. Het is er om je te beschermen.
-2. Je verklaart dat je geen Amerikaan bent, zodat er op Amerikaans dividend 15% in plaats van 30% belasting wordt ingehouden.
-3. Niet op de link klikken. Zelf inloggen via de officiële app, of de broker bellen via het nummer op de website.
+1. **a) Identiteitsbewijs, BSN en een bankrekening.** Met je identiteitsbewijs, BSN en bankrekening ben je meestal in 10 tot 20 minuten klaar.
+2. **b) Omdat het wettelijk verplicht is, om je te beschermen.** De broker moet controleren of beleggen en de producten bij je passen. Dat is er voor jouw bescherming.
+3. **c) Er wordt 15% in plaats van 30% belasting ingehouden op Amerikaans dividend.** Je verklaart dat je geen Amerikaan bent. Dan wordt er op Amerikaans dividend 15% in plaats van 30% ingehouden.
+4. **a) Niet klikken, zelf inloggen via de officiële app.** Dit is een bekende vorm van oplichting. Log zelf in via de officiële app of bel het nummer op de website.
 
 </details>
 

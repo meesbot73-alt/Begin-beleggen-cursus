@@ -124,16 +124,39 @@ Het verschil is heel klein. Maandelijks past bij een maandsalaris en is overzich
 
 ## Test jezelf
 
-1. Waarom levert eenmalig inleggen gemiddeld iets meer op?
-2. Waarom kiezen veel mensen toch voor gespreid inleggen bij een groot bedrag?
-3. Je salaris komt op de 24e. Op welke dag zet je je plan?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Waarom levert eenmalig inleggen gemiddeld iets meer op?**
+
+- a) Omdat het minder kost
+- b) Omdat beurzen vaker stijgen dan dalen, dus eerder belegd geld langer groeit
+- c) Omdat je dan op het laagste punt koopt
+
+**2. Waarom kiezen veel mensen toch voor gespreid inleggen bij een groot bedrag?**
+
+- a) Omdat een daling vlak na aankoop veel spijt kan geven
+- b) Omdat het altijd meer oplevert
+- c) Omdat eenmalig niet mag
+
+**3. Je salaris komt op de 24e. Op welke dag zet je je beleggingsplan?**
+
+- a) Op de 20e
+- b) Op de 1e
+- c) Een paar dagen later, bijvoorbeeld de 27e
+
+**4. Wat is het grote voordeel van periodiek beleggen met je salaris?**
+
+- a) Je krijgt gegarandeerd rendement
+- b) Het gaat automatisch en je hoeft nooit het juiste moment te kiezen
+- c) Je betaalt geen belasting
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Omdat beurzen op lange termijn vaker stijgen dan dalen, dus geld dat eerder belegd is, heeft gemiddeld meer tijd om te groeien.
-2. Omdat een daling vlak na een grote aankoop veel spijt kan geven, en dan stoppen mensen. Een plan dat je volhoudt is beter.
-3. Een paar dagen later, bijvoorbeeld de 27e of 28e.
+1. **b) Omdat beurzen vaker stijgen dan dalen, dus eerder belegd geld langer groeit.** Geld dat eerder belegd is, heeft gemiddeld meer tijd om te groeien.
+2. **a) Omdat een daling vlak na aankoop veel spijt kan geven.** Spijt na een daling laat mensen stoppen. Een plan dat je volhoudt is beter dan een plan dat net iets meer oplevert.
+3. **c) Een paar dagen later, bijvoorbeeld de 27e.** Zo staat je salaris er zeker op voordat je plan geld afschrijft.
+4. **b) Het gaat automatisch en je hoeft nooit het juiste moment te kiezen.** Je legt elke maand automatisch in. Zo hoef je niet na te denken over het moment.
 
 </details>
 

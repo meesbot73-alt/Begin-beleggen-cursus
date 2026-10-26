@@ -151,16 +151,39 @@ Op dezelfde manier: je kiest je belegging, kiest "verkopen", een ordertype en he
 
 ## Test jezelf
 
-1. Waarom zoek je je fonds op met de ISIN?
-2. Wat is het verschil tussen een marketorder en een limietorder?
-3. Je staat na je eerste aankoop € 1,20 in de min. Wat is waarschijnlijk de reden?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Waarom zoek je een fonds op met de ISIN?**
+
+- a) Omdat dat goedkoper is
+- b) Omdat veel fondsen bijna dezelfde naam hebben
+- c) Omdat de naam geheim is
+
+**2. Wat doet een marketorder?**
+
+- a) Kopen tegen jouw opgegeven prijs of beter
+- b) Kopen aan het eind van de maand
+- c) Direct kopen tegen de beste prijs op dat moment
+
+**3. Wat doet een limietorder?**
+
+- a) Kopen tegen jouw opgegeven prijs of beter
+- b) Kopen zonder kosten
+- c) Kopen met geleend geld
+
+**4. Je staat direct na je eerste aankoop € 1,20 in de min. Wat is waarschijnlijk de reden?**
+
+- a) Je hebt het verkeerde fonds
+- b) Transactiekosten en de spread
+- c) De beurs is gecrasht
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Omdat veel fondsen bijna dezelfde naam hebben. Met de ISIN weet je zeker dat je het juiste fonds koopt.
-2. Een marketorder koopt direct tegen de beste prijs op dat moment. Een limietorder koopt alleen tegen jouw opgegeven prijs of beter.
-3. De transactiekosten en de spread.
+1. **b) Omdat veel fondsen bijna dezelfde naam hebben.** De ISIN is een unieke code. Zo weet je zeker dat je het juiste fonds koopt.
+2. **c) Direct kopen tegen de beste prijs op dat moment.** Een marketorder voert direct uit. Een limietorder koopt alleen tegen jouw prijs of beter.
+3. **a) Kopen tegen jouw opgegeven prijs of beter.** Met een limietorder bepaal je de maximale prijs. Komt de koers daar niet, dan wordt er niet gekocht.
+4. **b) Transactiekosten en de spread.** Je betaalt kosten en koopt tegen de laatprijs. Daardoor sta je meteen een klein beetje in de min. Dat is normaal.
 
 </details>
 
