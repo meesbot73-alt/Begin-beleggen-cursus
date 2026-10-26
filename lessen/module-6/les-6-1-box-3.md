@@ -6,7 +6,7 @@
 
 ## In het kort
 
-In Nederland betaal je geen belasting over de winst als je iets verkoopt. In plaats daarvan betaal je in **box 3** belasting over je vermogen op **1 januari**. Daar zit een vrijstelling op: tot ongeveer € 59.000 per persoon betaal je niets. Voor de meeste beginnende beleggers is de box 3-belasting dus nog € 0. Na deze les kun je zelf uitrekenen of jij moet betalen, en weet je hoe je je beleggingen in je aangifte zet.
+In Nederland betaal je geen belasting over de winst als je iets verkoopt. In plaats daarvan betaal je in **box 3** belasting over je vermogen op **1 januari**. Daar zit een vrijstelling op: tot ongeveer € 59.000 per persoon betaal je niets. Voor de meeste beginnende beleggers is de box 3-belasting dus nog € 0. Let op: voor 2027 en 2028 liggen er voorstellen die de regels flink veranderen. Die staan verderop in deze les. Na deze les kun je zelf uitrekenen of jij moet betalen, en weet je hoe je je beleggingen in je aangifte zet.
 
 ## De drie boxen
 
@@ -71,22 +71,35 @@ Wat als je werkelijke rendement lager was dan het forfait? Bijvoorbeeld omdat de
 
 Dat loont vooral in jaren met een slecht rendement. De Belastingdienst heeft een rekenhulp en een formulier. In een goed beursjaar heb je er geen voordeel van.
 
-## Er komt mogelijk een nieuw systeem
+## Wat verandert er in 2027 en 2028?
 
-De overheid werkt aan de **Wet werkelijk rendement box 3**. Volgens het wetsvoorstel betaal je dan belasting over je **echte rendement** in plaats van een vast percentage:
+Box 3 is volop in beweging. Hieronder de stand van zaken op **26 oktober 2026**. Alles na 2026 zijn nog **voorstellen**: de Tweede en Eerste Kamer moeten er nog over stemmen.
 
-- rente, dividend en ook koersstijgingen van beleggingen tellen mee, **ook als je niet verkoopt**;
-- het tarief blijft 36%;
-- in plaats van een heffingsvrij vermogen komt er een **heffingsvrij resultaat** van € 1.800 per persoon per jaar;
-- verliezen van € 500 of meer kun je verrekenen met latere jaren.
+| | 2026 (geldt nu) | 2027 (voorstel) | Vanaf 2028 (voorstel) |
+| --- | --- | --- | --- |
+| Systeem | Vast (forfaitair) rendement over je vermogen op 1 januari | Hetzelfde systeem, met tegenbewijsregeling | Belasting over je **echte** rendement |
+| Vrijstelling | € 59.357 vermogen per persoon | € 30.846 vermogen per persoon | € 1.000 rendement per persoon per jaar |
+| Forfait beleggingen | 6,00% | Ongeveer 7,87% | Vervalt |
+| Tarief | 36% | 36% | 36% |
 
-**Stand van zaken oktober 2026:** de Tweede Kamer heeft het voorstel in februari 2026 aangenomen. De Eerste Kamer heeft er nog niet over gestemd. Het plan is dat het nieuwe systeem in **2028** ingaat. Deze les wordt bijgewerkt zodra er meer duidelijkheid is.
+### 2027: zelfde systeem, maar strenger
 
-### Wat zou het voor Noor betekenen?
+In 2027 blijft het huidige systeem gelden. Het kabinet wil wel de vrijstelling ongeveer halveren, van € 59.357 naar **€ 30.846** per persoon, en het vaste rendement op beleggingen verhogen naar ongeveer **7,87%**. Daardoor gaan veel meer mensen box 3-belasting betalen, ook met een kleiner vermogen. De Tweede Kamer stemt hier naar verwachting op 12 november 2026 over, de Eerste Kamer op 15 december 2026. Het kabinet heeft gezegd dat de verlaging nog niet definitief is.
 
-Stel dat Noors beleggingen in een jaar 7% stijgen (€ 5.600) en haar spaargeld 1,5% rente oplevert (€ 150). Volgens het voorstel betaalt ze dan (€ 5.750 − € 1.800) × 36% = ongeveer **€ 1.422**. In een jaar met verlies zou ze geen belasting betalen en het verlies kunnen verrekenen. Het verschil met nu hangt dus sterk af van hoe het beursjaar uitpakt.
+### Vanaf 2028: belasting over je echte rendement
 
-Voor beginnende beleggers met een klein vermogen is het belangrijkste verschil: in het nieuwe systeem is er geen vrijstelling meer op je vermogen, maar op je rendement. Ook met een klein vermogen kun je dan in een goed jaar boven de € 1.800 rendement uitkomen.
+De **Wet werkelijk rendement box 3** moet het vaste percentage vervangen door je echte rendement. De Tweede Kamer nam de wet in februari 2026 aan. De Eerste Kamer heeft haar stemming uitgesteld, omdat het kabinet de wet eerst aanpast met een wijzigingswet (een **novelle**). Volgens de plannen van eind september 2026:
+
+- betaal je over aandelen, obligaties en ETF's belasting over je **winst als je verkoopt** (vermogenswinstbelasting), plus over dividend en rente;
+- voor een deel van het vermogen, zoals vastgoed, geldt nog tot 2030 een andere regeling;
+- is de eerste **€ 1.000 rendement** per persoon per jaar vrijgesteld (in het eerdere voorstel was dat € 1.800);
+- blijft het tarief 36%.
+
+De novelle moet nog door de Tweede en Eerste Kamer. De beoogde startdatum is **1 januari 2028**, maar dat tijdspad wordt door kenners ambitieus genoemd.
+
+### Wat betekent dit voor jou?
+
+Voor je beleggingsplan verandert er weinig: je belegt voor de lange termijn, met lage kosten en goed gespreid. Wel kan het zijn dat je in 2027 al box 3-belasting gaat betalen bij een kleiner vermogen dan nu. Check elk jaar in januari de actuele regels op [belastingdienst.nl](https://www.belastingdienst.nl). Deze les wordt bijgewerkt zodra er meer duidelijkheid is.
 
 ## Dividendbelasting terugkrijgen
 
@@ -192,6 +205,6 @@ Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
 | 4 | Een grote stapel geld met een stuk dat groen is: "€ 59.357 vrij" | "En er is een vrijstelling. In 2026 betaal je over de eerste ruim negenenvijftigduizend euro niets." |
 | 5 | Sam met € 5.500 en een groen vinkje | "Sam heeft vijfenhalfduizend euro. Ruim eronder. Geen belasting. Wel even invullen in de aangifte." |
 | 6 | Noors berekening, stap voor stap | "Noor heeft negentigduizend euro. Dan rekent de Belastingdienst met een vast rendement, en over het deel boven de vrijstelling betaalt ze zesendertig procent. Bij Noor ongeveer zeshonderd euro." |
-| 7 | Een weegschaal met "vast rendement" en "echt rendement", met een vraagteken boven 2028 | "Er komt mogelijk een nieuw systeem, waarbij je belasting betaalt over je echte rendement. De Tweede Kamer stemde in, de Eerste Kamer nog niet. Het plan is 2028." |
+| 7 | Tijdlijn 2026, 2027, 2028 met een vraagteken boven 2027 en 2028 | "Box 3 verandert. In 2027 wil het kabinet de vrijstelling ongeveer halveren, naar zo'n dertigduizend euro. En vanaf 2028 moet je belasting gaan betalen over je echte rendement. Allemaal nog voorstellen, dus check elk jaar de actuele regels." |
 | 8 | Duitse vlag op een broker-app en een lege regel in de aangifte | "Let op bij een buitenlandse broker: je beleggingen staan er vaak niet vooraf ingevuld in. Dan vul je ze zelf in." |
 | 9 | Mascotte met opdrachtkaartje | "Opdracht: reken uit of jij onder of boven de vrijstelling zit. Volgende les: hoe je als belegger beschermd bent." |
