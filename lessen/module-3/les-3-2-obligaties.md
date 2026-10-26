@@ -125,16 +125,39 @@ Een spaarrekening waarbij je je geld vastzet voor een bepaalde tijd, tegen een v
 
 ## Test jezelf
 
-1. Je hebt een obligatie van € 1.000 met 2% coupon. Hoeveel rente krijg je per jaar?
-2. De marktrente stijgt. Wat gebeurt er met de koers van jouw bestaande obligatie?
-3. Waarom daalden veel obligatiefondsen in 2022?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat doe je eigenlijk als je een obligatie koopt?**
+
+- a) Je koopt een stukje van een bedrijf
+- b) Je leent geld uit aan een overheid of bedrijf
+- c) Je zet geld op een spaarrekening
+
+**2. Obligatie van € 1.000 met 2% coupon. Hoeveel rente krijg je per jaar?**
+
+- a) € 20
+- b) € 2
+- c) € 200
+
+**3. De marktrente stijgt. Wat gebeurt er met de koers van je bestaande obligatie?**
+
+- a) Die stijgt
+- b) Die blijft gelijk
+- c) Die daalt
+
+**4. Wat betekent 'investment grade'?**
+
+- a) Obligaties met een rating van BBB of hoger
+- b) Obligaties van alleen de Nederlandse staat
+- c) Obligaties zonder enig risico
 
 <details>
 <summary>Antwoorden</summary>
 
-1. € 20.
-2. De koers daalt, want nieuwe obligaties geven meer rente.
-3. Omdat de rente in korte tijd heel hard steeg. Daardoor werden bestaande obligaties met lagere rente minder waard.
+1. **b) Je leent geld uit aan een overheid of bedrijf.** Met een obligatie leen je geld uit. Je krijgt elk jaar rente en aan het eind je geld terug.
+2. **a) € 20.** 2% van € 1.000 is € 20 per jaar.
+3. **c) Die daalt.** Nieuwe obligaties geven dan meer rente. Jouw obligatie met lagere rente wordt minder aantrekkelijk en dus minder waard.
+4. **a) Obligaties met een rating van BBB of hoger.** Investment grade zijn obligaties met een rating van BBB of hoger: leners die als betrouwbaar gelden.
 
 </details>
 

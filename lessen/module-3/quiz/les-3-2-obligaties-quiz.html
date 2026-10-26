@@ -1,0 +1,38 @@
+<div class="bbh-quiz" style="text-align:left;font-family:system-ui,sans-serif;color:#0F2A1F;background:#F3F7F4;border:1px solid #CFE9DC;border-radius:14px;padding:20px;max-width:720px">
+<div style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#1F6B4A;font-weight:800">Test jezelf · Les 3.2</div>
+<div class="bbh-body"></div>
+</div>
+<script>
+(function(){
+var Q=[{"q": "Wat doe je eigenlijk als je een obligatie koopt?", "o": ["Je koopt een stukje van een bedrijf", "Je leent geld uit aan een overheid of bedrijf", "Je zet geld op een spaarrekening"], "c": 1, "u": "Met een obligatie leen je geld uit. Je krijgt elk jaar rente en aan het eind je geld terug."}, {"q": "Obligatie van € 1.000 met 2% coupon. Hoeveel rente krijg je per jaar?", "o": ["€ 20", "€ 2", "€ 200"], "c": 0, "u": "2% van € 1.000 is € 20 per jaar."}, {"q": "De marktrente stijgt. Wat gebeurt er met de koers van je bestaande obligatie?", "o": ["Die stijgt", "Die blijft gelijk", "Die daalt"], "c": 2, "u": "Nieuwe obligaties geven dan meer rente. Jouw obligatie met lagere rente wordt minder aantrekkelijk en dus minder waard."}, {"q": "Wat betekent 'investment grade'?", "o": ["Obligaties met een rating van BBB of hoger", "Obligaties van alleen de Nederlandse staat", "Obligaties zonder enig risico"], "c": 0, "u": "Investment grade zijn obligaties met een rating van BBB of hoger: leners die als betrouwbaar gelden."}];
+var root=document.currentScript.previousElementSibling.querySelector('.bbh-body');
+function render(){
+root.innerHTML='';var goed=0,klaar=0;
+Q.forEach(function(v,i){
+  var box=document.createElement('div');box.style.cssText='margin-top:18px';
+  var h=document.createElement('p');h.style.cssText='font-weight:700;margin:0 0 8px';h.textContent=(i+1)+'. '+v.q;box.appendChild(h);
+  var fb=document.createElement('p');fb.style.cssText='margin:8px 0 0;font-size:15px;display:none';
+  v.o.forEach(function(o,j){
+    var b=document.createElement('button');b.type='button';b.textContent=o;
+    b.style.cssText='display:block;width:100%;text-align:left;margin:6px 0;padding:12px 14px;min-height:44px;font:inherit;font-size:16px;border:2px solid #CFE9DC;border-radius:10px;background:#fff;color:#0F2A1F;cursor:pointer';
+    b.onclick=function(){
+      if(box.dataset.done)return;box.dataset.done=1;klaar++;
+      var bs=box.querySelectorAll('button');
+      bs[v.c].style.borderColor='#1F6B4A';bs[v.c].style.background='#CFE9DC';
+      if(j===v.c){goed++;fb.textContent='Goed! '+v.u;}else{b.style.borderColor='#B3261E';fb.textContent='Net niet. '+v.u;}
+      fb.style.display='block';
+      if(klaar===Q.length){score.textContent='Je score: '+goed+' van de '+Q.length+(goed===Q.length?'. Top, op naar de volgende les!':'. Lees de uitleg nog even terug en probeer het opnieuw.');score.style.display='block';opnieuw.style.display='inline-block';}
+    };
+    box.appendChild(b);
+  });
+  box.appendChild(fb);root.appendChild(box);
+});
+var score=document.createElement('p');score.style.cssText='display:none;margin:20px 0 10px;font-weight:800;font-size:18px;color:#1F6B4A';root.appendChild(score);
+var opnieuw=document.createElement('button');opnieuw.type='button';opnieuw.textContent='Opnieuw proberen';
+opnieuw.style.cssText='display:none;background:#F2C14E;color:#0F2A1F;border:0;border-radius:999px;padding:12px 22px;font:inherit;font-weight:800;cursor:pointer';
+opnieuw.onclick=render;
+root.appendChild(opnieuw);
+}
+render();
+})();
+</script>

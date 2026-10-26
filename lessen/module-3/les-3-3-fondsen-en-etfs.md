@@ -167,16 +167,39 @@ Voor vermogen opbouwen kiezen veel mensen accumulerend, dan wordt het dividend a
 
 ## Test jezelf
 
-1. Wat betekent "Acc" achter de naam van een ETF?
-2. Waarom bestaat de MSCI World voor ongeveer 70% uit Amerikaanse bedrijven?
-3. Je hebt twee ETF's op dezelfde index. De ene kost 0,07%, de andere 0,25% per jaar. Waar kijk je nog meer naar?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Wat betekent 'Acc' achter de naam van een ETF?**
+
+- a) Het dividend wordt uitgekeerd
+- b) Het fonds is actief beheerd
+- c) Het dividend wordt automatisch herbelegd
+
+**2. Wat is het verschil tussen een actief en een passief fonds?**
+
+- a) Een actief fonds is altijd goedkoper
+- b) Bij een actief fonds kiest een manager, een passief fonds volgt een index
+- c) Er is geen verschil
+
+**3. Waar staat de TER voor?**
+
+- a) De lopende kosten van een fonds per jaar
+- b) Het rendement van vorig jaar
+- c) Het risico van het fonds
+
+**4. Waarom bestaat de MSCI World voor ongeveer 70% uit Amerikaanse bedrijven?**
+
+- a) Omdat Europese bedrijven niet mogen meedoen
+- b) Omdat de index gewogen is naar marktwaarde
+- c) Omdat het een Amerikaans fonds is
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Accumulerend: het dividend wordt automatisch herbelegd.
-2. Omdat de index is gewogen naar marktwaarde, en Amerikaanse bedrijven samen het grootste deel van de wereldwijde beurswaarde vormen.
-3. Bijvoorbeeld fondsgrootte, tracking difference, notering in euro's en of het fonds bij jouw broker te koop is, en wat het daar kost.
+1. **c) Het dividend wordt automatisch herbelegd.** Acc staat voor accumulerend: het dividend gaat automatisch terug het fonds in.
+2. **b) Bij een actief fonds kiest een manager, een passief fonds volgt een index.** Een passief fonds volgt een index. Bij een actief fonds kiest een manager zelf de beleggingen, en dat kost meestal meer.
+3. **a) De lopende kosten van een fonds per jaar.** De TER zijn de lopende kosten per jaar. Die gaan van je rendement af.
+4. **b) Omdat de index gewogen is naar marktwaarde.** De index weegt bedrijven naar beurswaarde, en Amerikaanse bedrijven vormen het grootste deel van de wereldwijde beurswaarde.
 
 </details>
 

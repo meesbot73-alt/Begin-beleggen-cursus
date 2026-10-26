@@ -140,16 +140,39 @@ Op de tarievenpagina op de website, en in het essentiële-informatiedocument van
 
 ## Test jezelf
 
-1. Je belegt € 50 per maand en je broker rekent € 2 per order. Hoeveel procent kosten is dat per aankoop?
-2. Waarom kan een broker met servicekosten in het begin goedkoper zijn, maar later duurder?
-3. Waarom betaal je spread, ook bij een broker die "gratis" handelen belooft?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Je belegt € 50 per maand en betaalt € 2 per order. Hoeveel procent kosten is dat per aankoop?**
+
+- a) 0,4%
+- b) 4%
+- c) 2%
+
+**2. Waarom kan een broker met servicekosten (een percentage) later duurder worden?**
+
+- a) Omdat het bedrag meegroeit met je vermogen
+- b) Omdat het percentage elk jaar stijgt
+- c) Dat kan niet
+
+**3. Waarom betaal je spread, ook bij 'gratis' handelen?**
+
+- a) De broker rekent het stiekem
+- b) Het is belasting
+- c) Het is het verschil tussen bied- en laatprijs op de markt
+
+**4. Wat kun je als belegger zelf het best in de hand houden?**
+
+- a) Het rendement
+- b) De kosten
+- c) De koers
 
 <details>
 <summary>Antwoorden</summary>
 
-1. 4%.
-2. In het begin heb je weinig vermogen, dus een percentage is een klein bedrag. Als je vermogen groeit, groeit het bedrag aan servicekosten mee.
-3. Omdat de spread het verschil is tussen wat kopers en verkopers op de beurs vragen. Dat is geen kostenpost van de broker, maar van de markt.
+1. **b) 4%.** € 2 ÷ € 50 = 4%. Bij kleine bedragen wegen vaste kosten zwaar.
+2. **a) Omdat het bedrag meegroeit met je vermogen.** Een percentage van een klein vermogen is weinig. Groeit je vermogen, dan groeit het bedrag aan kosten mee.
+3. **c) Het is het verschil tussen bied- en laatprijs op de markt.** De spread is geen kostenpost van de broker, maar van de markt zelf.
+4. **b) De kosten.** Rendement is onzeker, kosten zijn zeker. Kosten laag houden is een van de weinige dingen die je zelf bepaalt.
 
 </details>
 

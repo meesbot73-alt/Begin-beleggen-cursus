@@ -121,16 +121,39 @@ Dat is het moment waarop een bedrijf voor het eerst aandelen op de beurs aanbied
 
 ## Test jezelf
 
-1. Aandeel A kost € 8, aandeel B € 400. Welke is goedkoper?
-2. Een aandeel heeft een koers van € 50 en een winst per aandeel van € 2,50. Wat is de K/W?
-3. Je krijgt € 20 dividend van een Nederlands bedrijf. Hoeveel komt er op je rekening?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Aandeel A kost € 8, aandeel B € 400. Welke is goedkoper?**
+
+- a) Aandeel A
+- b) Dat zie je niet aan de koers alleen
+- c) Aandeel B
+
+**2. Koers € 50, winst per aandeel € 2,50. Wat is de K/W?**
+
+- a) 20
+- b) 125
+- c) 2,5
+
+**3. Je krijgt € 20 dividend van een Nederlands bedrijf. Hoeveel komt er op je rekening?**
+
+- a) € 20
+- b) € 14
+- c) € 17
+
+**4. Wat is de spread?**
+
+- a) De jaarlijkse kosten van je broker
+- b) Het verschil tussen bied- en laatprijs
+- c) Het dividend gedeeld door de koers
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Dat kun je aan de koers niet zien. Je moet kijken naar wat je krijgt voor je geld, bijvoorbeeld met de K/W.
-2. € 50 ÷ € 2,50 = 20.
-3. € 17. Er wordt 15% (€ 3) dividendbelasting ingehouden.
+1. **b) Dat zie je niet aan de koers alleen.** Een lage koers zegt niets over of een aandeel goedkoop is. Kijk naar wat je krijgt voor je geld, bijvoorbeeld met de K/W.
+2. **a) 20.** K/W = koers gedeeld door winst per aandeel: € 50 ÷ € 2,50 = 20.
+3. **c) € 17.** Er wordt 15% dividendbelasting ingehouden: € 3. Je krijgt dus € 17.
+4. **b) Het verschil tussen bied- en laatprijs.** De spread is het verschil tussen wat kopers willen betalen en waarvoor verkopers willen verkopen.
 
 </details>
 

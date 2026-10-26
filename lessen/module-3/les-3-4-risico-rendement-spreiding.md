@@ -141,16 +141,39 @@ Alleen door niet in aandelen te beleggen. Je kunt het wel kleiner maken met obli
 
 ## Test jezelf
 
-1. Welk risico kun je wegspreiden en welk niet?
-2. Je hebt een S&P 500-ETF en een MSCI World-ETF. Waarom is dat minder spreiding dan het lijkt?
-3. In het voorbeeld van gespreid instappen staat de koers aan het eind weer op € 10. Waarom heb je toch winst?
+Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
+
+**1. Welk risico kun je wegspreiden?**
+
+- a) Marktrisico
+- b) Bedrijfsrisico
+- c) Allebei
+
+**2. Je hebt een S&P 500-ETF en een MSCI World-ETF. Waarom is dat minder spreiding dan het lijkt?**
+
+- a) Omdat de MSCI World grotendeels dezelfde Amerikaanse bedrijven bevat
+- b) Omdat de S&P 500 alleen Europese bedrijven heeft
+- c) Omdat twee ETF's altijd te veel is
+
+**3. Waarom levert gespreid instappen voordeel op als de koers schommelt?**
+
+- a) Omdat je dan geen kosten betaalt
+- b) Omdat je altijd op het laagste punt koopt
+- c) Omdat je bij een lage koers meer stukjes koopt voor hetzelfde bedrag
+
+**4. Wat is volatiliteit?**
+
+- a) Hoe sterk de waarde van een belegging schommelt
+- b) Hoeveel dividend een aandeel uitkeert
+- c) De kosten van een fonds
 
 <details>
 <summary>Antwoorden</summary>
 
-1. Bedrijfsrisico kun je wegspreiden, marktrisico niet.
-2. Omdat de MSCI World voor ongeveer 70% uit Amerikaanse bedrijven bestaat, grotendeels dezelfde als in de S&P 500.
-3. Omdat je in de maanden met een lage koers meer stukjes kocht voor hetzelfde bedrag.
+1. **b) Bedrijfsrisico.** Als het misgaat met één bedrijf, merk je dat bij veel bedrijven nauwelijks. Een daling van de hele markt kun je niet wegspreiden.
+2. **a) Omdat de MSCI World grotendeels dezelfde Amerikaanse bedrijven bevat.** De MSCI World bestaat voor ongeveer 70% uit Amerikaanse bedrijven, grotendeels dezelfde als in de S&P 500. Dat heet schijnspreiding.
+3. **c) Omdat je bij een lage koers meer stukjes koopt voor hetzelfde bedrag.** Met een vast bedrag koop je vanzelf meer als het goedkoop is en minder als het duur is.
+4. **a) Hoe sterk de waarde van een belegging schommelt.** Volatiliteit zegt hoe hard een belegging op en neer gaat. Hoe hoger, hoe groter de schommelingen.
 
 </details>
 
