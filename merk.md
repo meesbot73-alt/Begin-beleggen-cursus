@@ -27,7 +27,7 @@ Groen staat voor groei, goud voor geld: rustig en betrouwbaar.
 | Versie | Prijs | Inhoud |
 | --- | --- | --- |
 | Lancering (early bird) | € 39 | Eerste 100 kopers of eerste 2 weken |
-| Vaste prijs | € 69 | Alle 6 modules, checklists, levenslang toegang en updates |
+| Vaste prijs | € 69 | Alle 6 modules, checklists, 6 maanden toegang (besloten door Mees, 27-10-2026) |
 | Plus (later, optioneel) | € 119 | Ook community en maandelijkse live Q&A |
 
 Module 1 is gratis. Geen geld-terug-garantie (besloten door Mees, 27-10-2026).
