@@ -1,0 +1,146 @@
+<style>
+.bbh-wb{font-family:system-ui,-apple-system,sans-serif;color:#0F2A1F;background:#F3F7F4;border:1px solid #CFE9DC;border-radius:14px;padding:20px;max-width:760px;text-align:left;line-height:1.5;box-sizing:border-box}
+.bbh-wb *{box-sizing:border-box}
+.bbh-wb h2{font-size:22px;margin:0 0 4px;color:#0F2A1F}
+.bbh-wb h3{font-size:17px;margin:22px 0 8px;color:#1F6B4A}
+.bbh-wb h4{font-size:15px;margin:14px 0 6px}
+.bbh-wb .intro{margin:0 0 6px;color:#3E5248;font-size:15px}
+.bbh-wb .rij{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;padding:6px 0;border-bottom:1px solid #E3EFE8}
+.bbh-wb .rij label{flex:1 1 220px;font-size:15px}
+.bbh-wb input[type=text],.bbh-wb input[type=number],.bbh-wb select,.bbh-wb textarea{font:inherit;font-size:16px;padding:8px 10px;border:2px solid #CFE9DC;border-radius:8px;background:#fff;color:#0F2A1F;min-height:42px;flex:0 1 220px;width:220px;max-width:100%}
+.bbh-wb textarea{width:100%;flex-basis:100%;min-height:70px}
+.bbh-wb input:focus,.bbh-wb select:focus,.bbh-wb textarea:focus{outline:none;border-color:#1F6B4A}
+.bbh-wb .eur{position:relative;flex:0 1 220px;width:220px;max-width:100%}
+.bbh-wb .eur input{width:100%;padding-left:26px}
+.bbh-wb .eur:before{content:"€";position:absolute;left:10px;top:50%;transform:translateY(-50%);color:#3E5248}
+.bbh-wb .som{font-weight:800;color:#1F6B4A;flex:0 1 220px;text-align:right;font-size:17px}
+.bbh-wb .vink{display:flex;gap:10px;align-items:flex-start;padding:8px 0;font-size:15px}
+.bbh-wb .vink input{width:22px;height:22px;flex:0 0 22px;accent-color:#1F6B4A;margin-top:1px}
+.bbh-wb .kaart{background:#fff;border:1px solid #CFE9DC;border-radius:12px;padding:12px 14px;margin:8px 0}
+.bbh-wb .knoppen{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px;align-items:center}
+.bbh-wb button{font:inherit;font-weight:800;border-radius:999px;padding:12px 20px;cursor:pointer;border:2px solid #1F6B4A;background:#fff;color:#1F6B4A;min-height:44px}
+.bbh-wb button.goud{background:#F2C14E;border-color:#F2C14E;color:#0F2A1F}
+.bbh-wb .status{font-size:14px;color:#3E5248}
+.bbh-wb .voorbeeld{font-size:14px;color:#3E5248;background:#CFE9DC;border-radius:10px;padding:10px 12px;margin-top:6px}
+@media print{.bbh-wb{border:0;max-width:none;background:#fff}.bbh-wb .knoppen{display:none}.bbh-wb input,.bbh-wb select,.bbh-wb textarea{border:1px solid #999}}
+</style>
+<div class="bbh-wb" data-key="bbh-werkblad-m2">
+<h2>Mijn financiële check</h2>
+<p class="intro">Vul dit werkblad in tijdens de lessen van module 2. Je antwoorden worden bewaard op dit apparaat. In module 4 en 5 gebruik je ze weer.</p>
+<div class="rij"><label>Ingevuld op</label><input type="text" data-v="v1" aria-label="Ingevuld op" placeholder="bijv. 26-10-2026"></div>
+<h3>Deel A: Basis (les 2.1)</h3>
+<h4>Mijn vaste lasten per maand</h4>
+<div class="rij"><label>Wonen (huur, kamer, bijdrage ouders)</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl0" aria-label="Wonen (huur, kamer, bijdrage ouders)" placeholder=""></span></div>
+<div class="rij"><label>Energie en water</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl1" aria-label="Energie en water" placeholder=""></span></div>
+<div class="rij"><label>Zorgverzekering</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl2" aria-label="Zorgverzekering" placeholder=""></span></div>
+<div class="rij"><label>Eigen risico (reservering per maand)</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl3" aria-label="Eigen risico (reservering per maand)" placeholder=""></span></div>
+<div class="rij"><label>Verzekeringen</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl4" aria-label="Verzekeringen" placeholder=""></span></div>
+<div class="rij"><label>Telefoon en internet</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl5" aria-label="Telefoon en internet" placeholder=""></span></div>
+<div class="rij"><label>Vervoer</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl6" aria-label="Vervoer" placeholder=""></span></div>
+<div class="rij"><label>Abonnementen</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl7" aria-label="Abonnementen" placeholder=""></span></div>
+<div class="rij"><label>Studieschuld (DUO)</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl8" aria-label="Studieschuld (DUO)" placeholder=""></span></div>
+<div class="rij"><label>Overig</label><span class="eur"><input type="text" inputmode="decimal" data-v="vl9" aria-label="Overig" placeholder=""></span></div>
+<div class="rij"><label><b>Totaal vaste lasten</b></label><span class="som" data-som="+vl0 +vl1 +vl2 +vl3 +vl4 +vl5 +vl6 +vl7 +vl8 +vl9">€ 0</span></div>
+<h4>Mijn buffer</h4>
+<div class="rij"><label>Aantal maanden buffer dat ik kies</label><select data-v="bufmnd" aria-label="Aantal maanden buffer dat ik kies"><option value="">Kies...</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option><option>11</option><option>12</option></select></div>
+<div class="rij"><label>Waarom dit aantal maanden?</label><input type="text" data-v="bufwhy" aria-label="Waarom dit aantal maanden?" placeholder=""></div>
+<div class="rij"><label><b>Bufferbedrag (vaste lasten × maanden)</b></label><span class="som" data-som="+vl0 +vl1 +vl2 +vl3 +vl4 +vl5 +vl6 +vl7 +vl8 +vl9 *bufmnd">€ 0</span></div>
+<div class="rij"><label>Wat ik nu al heb</label><span class="eur"><input type="text" inputmode="decimal" data-v="bufnu" aria-label="Wat ik nu al heb" placeholder=""></span></div>
+<div class="rij"><label><b>Nog nodig</b></label><span class="som" data-som="+vl0 +vl1 +vl2 +vl3 +vl4 +vl5 +vl6 +vl7 +vl8 +vl9 *bufmnd -bufnu">€ 0</span></div>
+<h4>Mijn schulden</h4>
+<div class="kaart">
+<div class="rij"><label>Schuld 1</label><input type="text" data-v="v15" aria-label="Schuld 1" placeholder="bijv. rood staan"></div>
+<div class="rij"><label>Bedrag</label><span class="eur"><input type="text" inputmode="decimal" data-v="v16" aria-label="Bedrag" placeholder=""></span></div>
+<div class="rij"><label>Rente per jaar (%)</label><input type="text" inputmode="decimal" data-v="v17" aria-label="Rente per jaar (%)" placeholder=""></div>
+<div class="rij"><label>Eerst aflossen?</label><select data-v="v18" aria-label="Eerst aflossen?"><option value="">Kies...</option><option>Ja</option><option>Nee</option></select></div>
+</div>
+<div class="kaart">
+<div class="rij"><label>Schuld 2</label><input type="text" data-v="v19" aria-label="Schuld 2" placeholder="bijv. rood staan"></div>
+<div class="rij"><label>Bedrag</label><span class="eur"><input type="text" inputmode="decimal" data-v="v20" aria-label="Bedrag" placeholder=""></span></div>
+<div class="rij"><label>Rente per jaar (%)</label><input type="text" inputmode="decimal" data-v="v21" aria-label="Rente per jaar (%)" placeholder=""></div>
+<div class="rij"><label>Eerst aflossen?</label><select data-v="v22" aria-label="Eerst aflossen?"><option value="">Kies...</option><option>Ja</option><option>Nee</option></select></div>
+</div>
+<label class="vink"><input type="checkbox" data-v="v23"><span>Mijn buffer is vol en ik heb geen dure schulden. Ik mag beginnen met beleggen.</span></label>
+<div class="voorbeeld"><b>Voorbeeld Sam:</b> vaste lasten € 950, buffer 3 maanden = € 2.850, afgerond € 3.000 (vol), geen dure schulden.</div>
+<h3>Deel B: Mijn maandbudget (les 2.2)</h3>
+<div class="rij"><label>Netto inkomen</label><span class="eur"><input type="text" inputmode="decimal" data-v="ink" aria-label="Netto inkomen" placeholder=""></span></div>
+<p class="intro">Je vaste lasten uit deel A worden automatisch afgetrokken.</p>
+<div class="rij"><label>Boodschappen</label><span class="eur"><input type="text" inputmode="decimal" data-v="b1" aria-label="Boodschappen" placeholder=""></span></div>
+<div class="rij"><label>Eten, drinken, uitgaan</label><span class="eur"><input type="text" inputmode="decimal" data-v="b2" aria-label="Eten, drinken, uitgaan" placeholder=""></span></div>
+<div class="rij"><label>Kleding en verzorging</label><span class="eur"><input type="text" inputmode="decimal" data-v="b3" aria-label="Kleding en verzorging" placeholder=""></span></div>
+<div class="rij"><label>Overig</label><span class="eur"><input type="text" inputmode="decimal" data-v="b4" aria-label="Overig" placeholder=""></span></div>
+<div class="rij"><label><b>Wat ik overhoud per maand</b></label><span class="som" data-som="+ink -vl0 -vl1 -vl2 -vl3 -vl4 -vl5 -vl6 -vl7 -vl8 -vl9 -b1 -b2 -b3 -b4">€ 0</span></div>
+<h4>Zo verdeel ik wat ik overhoud</h4>
+<div class="rij"><label>Buffer aanvullen</label><span class="eur"><input type="text" inputmode="decimal" data-v="v29" aria-label="Buffer aanvullen" placeholder=""></span></div>
+<div class="rij"><label>Spaardoel 1 (naam)</label><input type="text" data-v="v30" aria-label="Spaardoel 1 (naam)" placeholder=""></div>
+<div class="rij"><label>Spaardoel 1 per maand</label><span class="eur"><input type="text" inputmode="decimal" data-v="v31" aria-label="Spaardoel 1 per maand" placeholder=""></span></div>
+<div class="rij"><label>Spaardoel 2 (naam)</label><input type="text" data-v="v32" aria-label="Spaardoel 2 (naam)" placeholder=""></div>
+<div class="rij"><label>Spaardoel 2 per maand</label><span class="eur"><input type="text" inputmode="decimal" data-v="v33" aria-label="Spaardoel 2 per maand" placeholder=""></span></div>
+<div class="rij"><label>Beleggen per maand</label><span class="eur"><input type="text" inputmode="decimal" data-v="v34" aria-label="Beleggen per maand" placeholder=""></span></div>
+<label class="vink"><input type="checkbox" data-v="v35"><span>Ik heb een automatische overboeking ingesteld op de dag na mijn salaris.</span></label>
+<div class="voorbeeld"><b>Voorbeeld Sam:</b> € 300 over per maand: € 150 voor het rijbewijs, € 150 beleggen.</div>
+<h3>Deel C: Mijn doelen (les 2.3)</h3>
+<div class="kaart">
+<div class="rij"><label>Doel 1</label><input type="text" data-v="v36" aria-label="Doel 1" placeholder="bijv. rijbewijs"></div>
+<div class="rij"><label>Bedrag</label><span class="eur"><input type="text" inputmode="decimal" data-v="v37" aria-label="Bedrag" placeholder=""></span></div>
+<div class="rij"><label>Wanneer</label><input type="text" data-v="v38" aria-label="Wanneer" placeholder="bijv. over 18 maanden"></div>
+<div class="rij"><label>Horizon</label><select data-v="v39" aria-label="Horizon"><option value="">Kies...</option><option>Kort (binnen 2 jaar)</option><option>Middellang (2 tot 5 jaar)</option><option>Lang (5 tot 10 jaar)</option><option>Heel lang (10 jaar of meer)</option></select></div>
+<div class="rij"><label>Sparen of beleggen</label><select data-v="v40" aria-label="Sparen of beleggen"><option value="">Kies...</option><option>Sparen</option><option>Beleggen</option></select></div>
+<div class="rij"><label>Per maand</label><span class="eur"><input type="text" inputmode="decimal" data-v="v41" aria-label="Per maand" placeholder=""></span></div>
+</div>
+<div class="kaart">
+<div class="rij"><label>Doel 2</label><input type="text" data-v="v42" aria-label="Doel 2" placeholder="bijv. rijbewijs"></div>
+<div class="rij"><label>Bedrag</label><span class="eur"><input type="text" inputmode="decimal" data-v="v43" aria-label="Bedrag" placeholder=""></span></div>
+<div class="rij"><label>Wanneer</label><input type="text" data-v="v44" aria-label="Wanneer" placeholder="bijv. over 18 maanden"></div>
+<div class="rij"><label>Horizon</label><select data-v="v45" aria-label="Horizon"><option value="">Kies...</option><option>Kort (binnen 2 jaar)</option><option>Middellang (2 tot 5 jaar)</option><option>Lang (5 tot 10 jaar)</option><option>Heel lang (10 jaar of meer)</option></select></div>
+<div class="rij"><label>Sparen of beleggen</label><select data-v="v46" aria-label="Sparen of beleggen"><option value="">Kies...</option><option>Sparen</option><option>Beleggen</option></select></div>
+<div class="rij"><label>Per maand</label><span class="eur"><input type="text" inputmode="decimal" data-v="v47" aria-label="Per maand" placeholder=""></span></div>
+</div>
+<div class="kaart">
+<div class="rij"><label>Doel 3</label><input type="text" data-v="v48" aria-label="Doel 3" placeholder="bijv. rijbewijs"></div>
+<div class="rij"><label>Bedrag</label><span class="eur"><input type="text" inputmode="decimal" data-v="v49" aria-label="Bedrag" placeholder=""></span></div>
+<div class="rij"><label>Wanneer</label><input type="text" data-v="v50" aria-label="Wanneer" placeholder="bijv. over 18 maanden"></div>
+<div class="rij"><label>Horizon</label><select data-v="v51" aria-label="Horizon"><option value="">Kies...</option><option>Kort (binnen 2 jaar)</option><option>Middellang (2 tot 5 jaar)</option><option>Lang (5 tot 10 jaar)</option><option>Heel lang (10 jaar of meer)</option></select></div>
+<div class="rij"><label>Sparen of beleggen</label><select data-v="v52" aria-label="Sparen of beleggen"><option value="">Kies...</option><option>Sparen</option><option>Beleggen</option></select></div>
+<div class="rij"><label>Per maand</label><span class="eur"><input type="text" inputmode="decimal" data-v="v53" aria-label="Per maand" placeholder=""></span></div>
+</div>
+<h3>Deel D: Mijn risicoprofiel (les 2.4)</h3>
+<p class="intro">Neem je antwoorden over uit de test in les 2.4.</p>
+<div class="rij"><label>1. Horizon: antwoord</label><select data-v="v54" aria-label="1. Horizon: antwoord"><option value="">Kies...</option><option>a</option><option>b</option><option>c</option></select></div>
+<div class="rij"><label>2. Inkomen: antwoord</label><select data-v="v55" aria-label="2. Inkomen: antwoord"><option value="">Kies...</option><option>a</option><option>b</option><option>c</option></select></div>
+<div class="rij"><label>3. Daling: antwoord</label><select data-v="v56" aria-label="3. Daling: antwoord"><option value="">Kies...</option><option>a</option><option>b</option><option>c</option></select></div>
+<div class="rij"><label>4. Belangrijkst: antwoord</label><select data-v="v57" aria-label="4. Belangrijkst: antwoord"><option value="">Kies...</option><option>a</option><option>b</option><option>c</option></select></div>
+<div class="rij"><label>5. Kijken: antwoord</label><select data-v="v58" aria-label="5. Kijken: antwoord"><option value="">Kies...</option><option>a</option><option>b</option><option>c</option></select></div>
+<div class="rij"><label>6. Kennis: antwoord</label><select data-v="v59" aria-label="6. Kennis: antwoord"><option value="">Kies...</option><option>a</option><option>b</option><option>c</option></select></div>
+<div class="rij"><label>Totaal punten</label><input type="text" inputmode="decimal" data-v="v60" aria-label="Totaal punten" placeholder=""></div>
+<div class="rij"><label>Mijn profiel</label><input type="text" data-v="v61" aria-label="Mijn profiel" placeholder="bijv. offensief"></div>
+<div class="rij"><label>Correctie toegepast?</label><select data-v="v62" aria-label="Correctie toegepast?"><option value="">Kies...</option><option>Nee</option><option>Ja</option></select></div>
+<div class="rij"><label>Zo ja, welke?</label><input type="text" data-v="v63" aria-label="Zo ja, welke?" placeholder=""></div>
+<div class="rij"><label>Aandelen (%)</label><input type="text" inputmode="decimal" data-v="v64" aria-label="Aandelen (%)" placeholder=""></div>
+<div class="rij"><label>Obligaties (%)</label><input type="text" inputmode="decimal" data-v="v65" aria-label="Obligaties (%)" placeholder=""></div>
+<div class="voorbeeld"><b>Voorbeeld Sam:</b> 15 punten, offensief, rond 80% aandelen en 20% obligaties.</div>
+<div class="knoppen"><button type="button" class="goud pdf">Opslaan als PDF of printen</button><button type="button" class="leeg">Alles wissen</button><span class="status">Je antwoorden worden automatisch bewaard op dit apparaat.</span></div>
+</div>
+<script>
+(function(){
+var root=document.currentScript.previousElementSibling, KEY=root.getAttribute('data-key');
+var st=root.querySelector('.status'), velden=root.querySelectorAll('[data-v]');
+function lees(){var d={};velden.forEach(function(e){d[e.getAttribute('data-v')]=e.type==='checkbox'?e.checked:e.value;});return d;}
+function num(id){var e=root.querySelector('[data-v="'+id+'"]');if(!e)return 0;var x=parseFloat(String(e.value).replace(/\./g,'').replace(',','.'));return isNaN(x)?0:x;}
+function fmt(x){return '€ '+Math.round(x).toLocaleString('nl-NL');}
+function reken(){root.querySelectorAll('[data-som]').forEach(function(o){
+  var f=o.getAttribute('data-som');var r=0;
+  f.split(' ').forEach(function(t){var m=t.match(/^([+\-*])(.+)$/);if(!m)return;var v=isNaN(+m[2])?num(m[2]):+m[2];if(m[1]==='+')r+=v;if(m[1]==='-')r-=v;if(m[1]==='*')r*=v;});
+  o.textContent=fmt(r);o.setAttribute('data-waarde',r);});}
+var opgeslagen=false;
+function bewaar(){try{localStorage.setItem(KEY,JSON.stringify(lees()));st.textContent='Automatisch bewaard op dit apparaat.';opgeslagen=true;}catch(e){st.textContent='Bewaren lukt hier niet. Sla je werkblad op als PDF.';}}
+try{var d=JSON.parse(localStorage.getItem(KEY)||'null');if(d){velden.forEach(function(e){var k=e.getAttribute('data-v');if(k in d){if(e.type==='checkbox')e.checked=!!d[k];else e.value=d[k];}});st.textContent='Je eerdere antwoorden zijn teruggezet.';}}catch(e){}
+root.addEventListener('input',function(){reken();bewaar();});
+root.addEventListener('change',function(){reken();bewaar();});
+reken();
+root.querySelector('.pdf').onclick=function(){window.print();};
+root.querySelector('.leeg').onclick=function(){if(!confirm('Weet je zeker dat je alles wilt wissen?'))return;velden.forEach(function(e){if(e.type==='checkbox')e.checked=false;else e.value='';});try{localStorage.removeItem(KEY);}catch(e){}reken();st.textContent='Werkblad leeggemaakt.';};
+function stuurHoogte(){try{var h=document.documentElement.scrollHeight;if(window.frameElement){window.frameElement.style.height=h+'px';}parent.postMessage({bbhHoogte:h},'*');}catch(e){}}
+new ResizeObserver(stuurHoogte).observe(document.body);stuurHoogte();
+})();
+</script>

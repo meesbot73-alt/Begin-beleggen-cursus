@@ -1,0 +1,38 @@
+<div class="bbh-quiz" style="text-align:left;font-family:system-ui,sans-serif;color:#0F2A1F;background:#F3F7F4;border:1px solid #CFE9DC;border-radius:14px;padding:20px;max-width:720px">
+<div style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#1F6B4A;font-weight:800">Test jezelf · Les 1.3</div>
+<div class="bbh-body"></div>
+</div>
+<script>
+(function(){
+var Q=[{"q": "Je belegt € 1.000 tegen 7% per jaar. Waarom is de opbrengst in jaar 2 groter dan in jaar 1?", "o": ["Omdat het percentage stijgt", "Omdat je ook rendement maakt over de opbrengst van jaar 1", "Omdat je extra geld inlegt"], "c": 1, "u": "In jaar 2 reken je 7% over € 1.070 in plaats van € 1.000. Dat is rente-op-rente."}, {"q": "In hoeveel jaar verdubbelt je geld ongeveer bij 7% rendement per jaar?", "o": ["Ongeveer 10 jaar", "Ongeveer 7 jaar", "Ongeveer 20 jaar"], "c": 0, "u": "Met de regel van 72: 72 ÷ 7 = ongeveer 10 jaar."}, {"q": "Lisa legde € 12.000 in, Tom € 36.000. Waarom heeft Lisa op haar 65e toch meer?", "o": ["Ze koos betere aandelen", "Ze betaalde minder belasting", "Haar geld had 10 jaar langer de tijd om te groeien"], "c": 2, "u": "Lisa begon 10 jaar eerder. Bij rente-op-rente telt tijd zwaarder dan het bedrag dat je inlegt."}, {"q": "Fonds A kost 1% per jaar, fonds B 0,2%. Waarom maakt dat over 40 jaar zoveel uit?", "o": ["Je mist ook het rendement over de kosten die je betaalde", "Dure fondsen zijn altijd slechter", "Het maakt eigenlijk weinig uit"], "c": 0, "u": "Kosten groeien net zo goed mee als rendement: elke euro kosten kan geen rente-op-rente meer opleveren."}];
+var root=document.currentScript.previousElementSibling.querySelector('.bbh-body');
+function render(){
+root.innerHTML='';var goed=0,klaar=0;
+Q.forEach(function(v,i){
+  var box=document.createElement('div');box.style.cssText='margin-top:18px';
+  var h=document.createElement('p');h.style.cssText='font-weight:700;margin:0 0 8px';h.textContent=(i+1)+'. '+v.q;box.appendChild(h);
+  var fb=document.createElement('p');fb.style.cssText='margin:8px 0 0;font-size:15px;display:none';
+  v.o.forEach(function(o,j){
+    var b=document.createElement('button');b.type='button';b.textContent=o;
+    b.style.cssText='display:block;width:100%;text-align:left;margin:6px 0;padding:12px 14px;min-height:44px;font:inherit;font-size:16px;border:2px solid #CFE9DC;border-radius:10px;background:#fff;color:#0F2A1F;cursor:pointer';
+    b.onclick=function(){
+      if(box.dataset.done)return;box.dataset.done=1;klaar++;
+      var bs=box.querySelectorAll('button');
+      bs[v.c].style.borderColor='#1F6B4A';bs[v.c].style.background='#CFE9DC';
+      if(j===v.c){goed++;fb.textContent='Goed! '+v.u;}else{b.style.borderColor='#B3261E';fb.textContent='Net niet. '+v.u;}
+      fb.style.display='block';
+      if(klaar===Q.length){score.textContent='Je score: '+goed+' van de '+Q.length+(goed===Q.length?'. Top, op naar de volgende les!':'. Lees de uitleg nog even terug en probeer het opnieuw.');score.style.display='block';opnieuw.style.display='inline-block';}
+    };
+    box.appendChild(b);
+  });
+  box.appendChild(fb);root.appendChild(box);
+});
+var score=document.createElement('p');score.style.cssText='display:none;margin:20px 0 10px;font-weight:800;font-size:18px;color:#1F6B4A';root.appendChild(score);
+var opnieuw=document.createElement('button');opnieuw.type='button';opnieuw.textContent='Opnieuw proberen';
+opnieuw.style.cssText='display:none;background:#F2C14E;color:#0F2A1F;border:0;border-radius:999px;padding:12px 22px;font:inherit;font-weight:800;cursor:pointer';
+opnieuw.onclick=render;
+root.appendChild(opnieuw);
+}
+render();
+})();
+</script>
