@@ -89,7 +89,7 @@ Beleggen Begint Hier
 
 **Prijs: minder dan een avondje uit**
 - **Module 1 · Gratis.** 3 lessen over waarom beleggen slim is, plus de Startchecklist. Knop: Probeer gratis (→ /start)
-- **Volledige cursus · Lanceringsprijs € 39** (doorgestreept € 69). Alle 6 modules, werkbladen, brokervergelijking. Je hebt 6 maanden toegang. Betalen met iDEAL. Knop: Start de cursus.
+- **Volledige cursus · Lanceringsprijs € 39** (doorgestreept € 69). Alle 6 modules, werkbladen en de brokervergelijking. Je hebt 6 maanden toegang. Betalen met iDEAL. Knop: Start de cursus.
 
 **Veelgestelde vragen**
 - *Moet ik al iets van beleggen weten?* Nee. De cursus begint bij nul en legt elk begrip uit.
