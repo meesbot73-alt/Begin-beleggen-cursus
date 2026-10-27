@@ -30,7 +30,7 @@ Groen staat voor groei, goud voor geld: rustig en betrouwbaar.
 | Vaste prijs | € 69 | Alle 6 modules, checklists, levenslang toegang en updates |
 | Plus (later, optioneel) | € 119 | Ook community en maandelijkse live Q&A |
 
-Module 1 is gratis. 14 dagen geld-terug-garantie.
+Module 1 is gratis. Geen geld-terug-garantie (besloten door Mees, 27-10-2026).
 
 ## Video's en YouTube
 

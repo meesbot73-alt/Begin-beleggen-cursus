@@ -65,7 +65,7 @@ Beleggen Begint Hier
 
 **Knoppen:** Start de cursus · Probeer module 1 gratis (→ /start)
 
-**Kleine regel:** 21 lessen · elke les een korte meerkeuzetest · invulbare werkbladen · 14 dagen geld terug
+**Kleine regel:** 21 lessen · elke les een korte meerkeuzetest · invulbare werkbladen
 
 **Kaart rente-op-rente:** Lisa legde € 12.000 in, Tom € 36.000. Toch heeft Lisa op haar 65e meer. *Uit les 1.3 · gemiddeld 7% per jaar, geen garantie.*
 
@@ -89,7 +89,7 @@ Beleggen Begint Hier
 
 **Prijs: minder dan een avondje uit**
 - **Module 1 · Gratis.** 3 lessen over waarom beleggen slim is, plus de Startchecklist. Knop: Probeer gratis (→ /start)
-- **Volledige cursus · Lanceringsprijs € 39** (doorgestreept € 69). Alle 6 modules, werkbladen, brokervergelijking en levenslang updates. Betalen met iDEAL. Knop: Start de cursus. 14 dagen geld-terug-garantie.
+- **Volledige cursus · Lanceringsprijs € 39** (doorgestreept € 69). Alle 6 modules, werkbladen, brokervergelijking en levenslang updates. Betalen met iDEAL. Knop: Start de cursus.
 
 **Veelgestelde vragen**
 - *Moet ik al iets van beleggen weten?* Nee. De cursus begint bij nul en legt elk begrip uit.
