@@ -21,7 +21,7 @@ Deze voorwaarden gelden voor elke aanmelding voor de gratis module en elke aanko
 
 ### 4. Prijs en betalen
 - De prijs staat op de verkooppagina en is inclusief btw.
-- Je betaalt vooraf via iDEAL of een andere betaalmethode op de bestelpagina. Betalingen lopen via Stripe.
+- Je betaalt vooraf via iDEAL of een andere betaalmethode op de bestelpagina. Betalingen lopen via [Mollie of Stripe].
 - Na betaling krijg je per e-mail je inloggegevens.
 
 ### 5. Bedenktijd (herroepingsrecht)
@@ -52,7 +52,7 @@ Beleggen Begint Hier ([naam / handelsnaam], KVK [nummer]) gaat zorgvuldig om met
 
 ### Welke gegevens we verzamelen
 - Bij aanmelden voor de gratis module: je voornaam, je e-mailadres en via welke video je kwam (bron).
-- Bij aankoop: daarnaast je naam en betaalgegevens. Betaalgegevens verwerkt Stripe; die zien wij niet volledig.
+- Bij aankoop: daarnaast je naam en betaalgegevens. Betaalgegevens verwerkt [Mollie of Stripe]; die zien wij niet volledig.
 - Je voortgang in de cursus (welke lessen je hebt bekeken).
 
 ### Waarom
@@ -62,7 +62,7 @@ Beleggen Begint Hier ([naam / handelsnaam], KVK [nummer]) gaat zorgvuldig om met
 
 ### Met wie we gegevens delen
 - **Systeme.io:** het platform waarop de cursus en de mails draaien.
-- **Stripe:** voor de betalingen.
+- **[Mollie of Stripe]:** voor de betalingen.
 - **TransIP:** voor het doorsturen van e-mail naar ons adres.
 We verkopen je gegevens nooit.
 
