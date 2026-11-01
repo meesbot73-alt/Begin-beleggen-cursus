@@ -1,0 +1,38 @@
+<div class="bbh-quiz" style="text-align:left;font-family:system-ui,sans-serif;color:#0F2A1F;background:#F3F7F4;border:1px solid #CFE9DC;border-radius:14px;padding:20px;max-width:720px">
+<div style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#1F6B4A;font-weight:800">Test jezelf · Les 3.5</div>
+<div class="bbh-body"></div>
+</div>
+<script>
+(function(){
+var Q=[{"q": "Je belegt € 50 per maand en betaalt € 2 per order. Hoeveel procent kosten is dat per aankoop?", "o": ["0,4%", "4%", "2%"], "c": 1, "u": "€ 2 ÷ € 50 = 4%. Bij kleine bedragen wegen vaste kosten zwaar."}, {"q": "Waarom kan een broker met servicekosten (een percentage) later duurder worden?", "o": ["Omdat het bedrag meegroeit met je vermogen", "Omdat het percentage elk jaar stijgt", "Dat kan niet"], "c": 0, "u": "Een percentage van een klein vermogen is weinig. Groeit je vermogen, dan groeit het bedrag aan kosten mee."}, {"q": "Waarom betaal je spread, ook bij 'gratis' handelen?", "o": ["De broker rekent het stiekem", "Het is belasting", "Het is het verschil tussen bied- en laatprijs op de markt"], "c": 2, "u": "De spread is geen kostenpost van de broker, maar van de markt zelf."}, {"q": "Wat kun je als belegger zelf het best in de hand houden?", "o": ["Het rendement", "De kosten", "De koers"], "c": 1, "u": "Rendement is onzeker, kosten zijn zeker. Kosten laag houden is een van de weinige dingen die je zelf bepaalt."}];
+var root=document.currentScript.previousElementSibling.querySelector('.bbh-body');
+function render(){
+root.innerHTML='';var goed=0,klaar=0;
+Q.forEach(function(v,i){
+  var box=document.createElement('div');box.style.cssText='margin-top:18px';
+  var h=document.createElement('p');h.style.cssText='font-weight:700;margin:0 0 8px';h.textContent=(i+1)+'. '+v.q;box.appendChild(h);
+  var fb=document.createElement('p');fb.style.cssText='margin:8px 0 0;font-size:15px;display:none';
+  v.o.forEach(function(o,j){
+    var b=document.createElement('button');b.type='button';b.textContent=o;
+    b.style.cssText='display:block;width:100%;text-align:left;margin:6px 0;padding:12px 14px;min-height:44px;font:inherit;font-size:16px;border:2px solid #CFE9DC;border-radius:10px;background:#fff;color:#0F2A1F;cursor:pointer';
+    b.onclick=function(){
+      if(box.dataset.done)return;box.dataset.done=1;klaar++;
+      var bs=box.querySelectorAll('button');
+      bs[v.c].style.borderColor='#1F6B4A';bs[v.c].style.background='#CFE9DC';
+      if(j===v.c){goed++;fb.textContent='Goed! '+v.u;}else{b.style.borderColor='#B3261E';fb.textContent='Net niet. '+v.u;}
+      fb.style.display='block';
+      if(klaar===Q.length){score.textContent='Je score: '+goed+' van de '+Q.length+(goed===Q.length?'. Top, op naar de volgende les!':'. Lees de uitleg nog even terug en probeer het opnieuw.');score.style.display='block';opnieuw.style.display='inline-block';}
+    };
+    box.appendChild(b);
+  });
+  box.appendChild(fb);root.appendChild(box);
+});
+var score=document.createElement('p');score.style.cssText='display:none;margin:20px 0 10px;font-weight:800;font-size:18px;color:#1F6B4A';root.appendChild(score);
+var opnieuw=document.createElement('button');opnieuw.type='button';opnieuw.textContent='Opnieuw proberen';
+opnieuw.style.cssText='display:none;background:#F2C14E;color:#0F2A1F;border:0;border-radius:999px;padding:12px 22px;font:inherit;font-weight:800;cursor:pointer';
+opnieuw.onclick=render;
+root.appendChild(opnieuw);
+}
+render();
+})();
+</script>
