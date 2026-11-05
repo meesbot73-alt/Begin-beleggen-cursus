@@ -14,7 +14,7 @@ Een broker:
 2. bewaart je beleggingen op jouw naam;
 3. stuurt je overzichten, zoals een jaaroverzicht voor de belastingaangifte en een kostenoverzicht.
 
-Er zijn ook aanbieders die geen toegang geven tot de beurs, maar hun **eigen indexfondsen** verkopen (les 3.3). Die tellen we hier ook mee.
+Er zijn ook aanbieders die geen toegang geven tot de beurs, maar hun **eigen indexfondsen** verkopen (les 3.3). Die staan niet in de bijlage, maar met de criteria hieronder kun je ze ook beoordelen.
 
 ## De zes criteria
 
@@ -79,7 +79,7 @@ Sommige brokers bieden extra's. Die kunnen fijn zijn, maar zijn nooit de reden o
 
 ## De echte brokers naast elkaar
 
-In de [bijlage](bijlage-brokervergelijking.md) vind je zeven partijen die veel gebruikt worden door beginners, op deze criteria naast elkaar gezet. Die vergelijking heeft een peildatum en wordt bijgewerkt. Kijk altijd ook zelf op de tarievenpagina, want tarieven veranderen.
+In de [bijlage](bijlage-brokervergelijking.md) vind je zes partijen die veel gebruikt worden door beginners, op deze criteria naast elkaar gezet. Die vergelijking heeft een peildatum en wordt bijgewerkt. Kijk altijd ook zelf op de tarievenpagina, want tarieven veranderen.
 
 ## Het keuzeblad
 
@@ -193,5 +193,5 @@ Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
 | 6 | Telefoon met Nederlandse vlag, iDEAL-knop, helpdesk | "Vijf: gebruiksgemak. Nederlandse app, makkelijk storten, een duidelijk jaaroverzicht." |
 | 7 | Cadeautje met een vraagteken | "En zes: extra's zoals rente of een gratis aandeel. Leuk, maar nooit de reden om te kiezen." |
 | 8 | Sam met een keuzeblad met drie kolommen | "Sam vergelijkt drie partijen en kiest er een met een gratis beleggingsplan, zodat de honderdvijftig euro elke maand volledig en automatisch wordt belegd." |
-| 9 | Klein in beeld: "Voorbeeld, geen advies" en verwijzing naar de bijlage | "In de bijlage vind je zeven echte partijen naast elkaar. Maar jouw keuze maak je zelf, met het keuzeblad." |
+| 9 | Klein in beeld: "Voorbeeld, geen advies" en verwijzing naar de bijlage | "In de bijlage vind je zes echte partijen naast elkaar. Maar jouw keuze maak je zelf, met het keuzeblad." |
 | 10 | Mascotte met opdrachtkaartje | "Opdracht: vul het keuzeblad in en zoek je broker op in het register. In de volgende les openen we de rekening." |
