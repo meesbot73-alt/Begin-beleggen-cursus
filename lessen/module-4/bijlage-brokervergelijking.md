@@ -1,6 +1,6 @@
 # Bijlage module 4: Brokers vergeleken
 
-**Peildatum: oktober 2026** (Saxo toegevoegd op 26 oktober 2026; MEXEM en de uitleg per broker toegevoegd en Meesman verwijderd op 5 november 2026). Brokers passen hun tarieven regelmatig aan. Controleer altijd de tarievenpagina van de broker zelf voordat je een rekening opent. Deze bijlage wordt periodiek bijgewerkt.
+**Peildatum: oktober 2026** (Saxo toegevoegd op 26 oktober 2026; MEXEM en de uitleg per broker toegevoegd op 5 november 2026). Brokers passen hun tarieven regelmatig aan. Controleer altijd de tarievenpagina van de broker zelf voordat je een rekening opent. Deze bijlage wordt periodiek bijgewerkt.
 
 > Dit overzicht is een neutrale vergelijking op vaste criteria. Het is geen aanbeveling voor een bepaalde broker en geen persoonlijk advies. Beleggen Begint Hier ontvangt geen vergoeding van de genoemde partijen. De volgorde is alfabetisch.
 
