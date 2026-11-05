@@ -115,7 +115,3 @@ Wat betaalt Sam per jaar aan broker- en servicekosten, als er over een paar jaar
 | Trade Republic | Beleggingsplan | **€ 0** |
 
 Bij een klein maandbedrag liggen de verschillen dus dicht bij elkaar. Belangrijker dan een paar euro is dat je een broker kiest die veilig is, je fonds aanbiedt en het je makkelijk maakt om vol te houden (les 4.1). Let op: bij Saxo groeien de kosten mee met je vermogen, bij de andere brokers vooral met het aantal orders.
-
-## Zo houd je deze bijlage actueel
-
-Gebruik bij elke update dezelfde kolommen. Noteer de peildatum bovenaan en de bron per wijziging. Verander niets aan de criteria zonder ook les 4.1 aan te passen.

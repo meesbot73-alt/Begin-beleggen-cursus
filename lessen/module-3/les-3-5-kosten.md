@@ -10,7 +10,7 @@ Rendement is onzeker, maar kosten zijn zeker. Daarom is kosten laag houden een v
 
 | Kosten | Wie rekent het? | Hoe? | Typisch voor brede ETF's of brokers |
 | --- | --- | --- | --- |
-| Lopende kosten (TER, *Total Expense Ratio*) | Het fonds | Percentage per jaar, zit in de koers | 0,05 tot 0,3% |
+| Lopende kosten (TER) | Het fonds | Percentage per jaar, zit in de koers | 0,05 tot 0,3% |
 | Transactiekosten | De broker | Vast bedrag of percentage per aankoop of verkoop | € 0 tot een paar euro per order |
 | Spread | De markt | Verschil tussen bied- en laatprijs (les 3.1) | 0,02 tot 0,2% bij grote ETF's |
 | Valutakosten | De broker | Percentage als je koopt in een andere valuta | 0 tot 0,25% |

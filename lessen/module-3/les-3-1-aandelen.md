@@ -32,7 +32,7 @@ Euronext Amsterdam is op werkdagen open van 9:00 tot 17:30. Buiten die tijden ku
 
 Open je in een beleggingsapp een aandeel, dan zie je een rij getallen. Dit betekenen ze, met een fictief voorbeeld:
 
-**De Gouden Korst NV** (NV = naamloze vennootschap, de rechtsvorm van de meeste beursbedrijven)
+**De Gouden Korst NV**
 
 | Gegeven | Voorbeeld | Wat betekent het? |
 | --- | --- | --- |
@@ -44,8 +44,7 @@ Open je in een beleggingsapp een aandeel, dan zie je een rij getallen. Dit betek
 | Dividendrendement | 3,1% | Dividend per jaar ÷ koers |
 | 52-weeksbereik | € 19,80 tot € 26,10 | Laagste en hoogste koers van het afgelopen jaar |
 | Sector | Voeding | In welke branche het bedrijf actief is |
-| Ticker | GKORST | Korte beurscode, zoals ASML voor ASML of AD voor Ahold Delhaize. Handig, maar niet uniek: op een andere beurs kan dezelfde code iets anders betekenen |
-| ISIN | NL00XXXXXXXX | *International Securities Identification Number*: unieke code van 12 tekens. De eerste twee letters zijn het land (NL = Nederland). Zoek hierop, dan heb je altijd het juiste aandeel |
+| ISIN | NL00XXXXXXXX | Unieke code van het aandeel, handig om het juiste te vinden |
 
 ### Wat zeggen die getallen wel en niet?
 
@@ -105,7 +104,7 @@ Bij sommige brokers wel, dat heet een fractioneel aandeel. Bij andere koop je al
 In principe wel, op de aandeelhoudersvergadering. Bij veel brokers kun je dat regelen, maar voor kleine beleggers maakt het weinig uit.
 
 **Wat is een beursgang?**
-Dat is het moment waarop een bedrijf voor het eerst aandelen op de beurs aanbiedt. Ook wel IPO genoemd (*Initial Public Offering*) of beursgang.
+Dat is het moment waarop een bedrijf voor het eerst aandelen op de beurs aanbiedt. Ook wel IPO genoemd.
 
 ## Begrippen uit deze les
 
@@ -117,8 +116,7 @@ Dat is het moment waarop een bedrijf voor het eerst aandelen op de beurs aanbied
 | Marktkapitalisatie | De beurswaarde van het hele bedrijf |
 | K/W (koers-winstverhouding) | Koers gedeeld door winst per aandeel |
 | Dividendrendement | Dividend per jaar gedeeld door de koers |
-| Ticker | Korte beurscode van een aandeel of fonds, bijvoorbeeld ASML |
-| ISIN | *International Securities Identification Number*: wereldwijd unieke code van een aandeel of fonds |
+| ISIN | Unieke code van een aandeel of fonds |
 | Dividendbelasting | 15% belasting die wordt ingehouden op Nederlands dividend |
 
 ## Test jezelf

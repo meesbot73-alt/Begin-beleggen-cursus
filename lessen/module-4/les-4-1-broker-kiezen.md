@@ -24,7 +24,7 @@ Kies je broker op deze zes punten, in deze volgorde.
 
 Dit is niet onderhandelbaar. Check:
 
-- **Heeft de broker een vergunning?** Bij Nederlandse partijen: de AFM (Autoriteit Financiële Markten) en DNB (De Nederlandsche Bank). Bij partijen uit een ander EU-land: de toezichthouder daar (bijvoorbeeld BaFin in Duitsland of CySEC op Cyprus), plus een registratie bij de AFM. Je kunt dat zelf opzoeken in het register op afm.nl.
+- **Heeft de broker een vergunning?** Bij Nederlandse partijen: AFM en DNB. Bij partijen uit een ander EU-land: de toezichthouder daar (bijvoorbeeld BaFin in Duitsland of CySEC op Cyprus), plus een registratie bij de AFM. Je kunt dat zelf opzoeken in het register op afm.nl.
 - **Worden je beleggingen apart bewaard?** Bij een betrouwbare broker staan je effecten gescheiden van het vermogen van de broker zelf. Gaat de broker failliet, dan zijn ze nog steeds van jou.
 - **Valt de broker onder een beleggerscompensatiestelsel?** Gaat er toch iets mis, dan krijg je tot € 20.000 vergoed (module 6).
 
