@@ -45,13 +45,13 @@ Veel beginners kiezen een fonds dat een **wereldindex** volgt. De bekendste:
 
 | Index | Wat zit erin | Aantal bedrijven (ongeveer) |
 | --- | --- | --- |
-| MSCI World | Grote en middelgrote bedrijven uit 23 ontwikkelde landen | 1.400 |
-| MSCI ACWI | MSCI World plus opkomende landen zoals China, India en Brazilië | 2.500 |
+| MSCI World | Grote en middelgrote bedrijven uit 23 ontwikkelde landen | 1.300 |
+| MSCI ACWI | MSCI World plus opkomende landen zoals China, India en Brazilië | 2.300 |
 | FTSE All-World | Vergelijkbaar met ACWI, met nog wat meer bedrijven | 4.000 |
 | MSCI Emerging Markets | Alleen opkomende landen | 1.200 |
 | S&P 500 | 500 grote Amerikaanse bedrijven | 500 |
 
-**Let op:** wereldindexen zijn "naar marktwaarde gewogen". Grote bedrijven krijgen een groot stuk. Omdat de Amerikaanse beurs heel groot is, bestaat de MSCI World voor ongeveer **70% uit Amerikaanse bedrijven**. Een wereldfonds is dus breed, maar wel flink Amerikaans. Dat is geen probleem, zolang je het weet.
+**Let op:** wereldindexen zijn "naar marktwaarde gewogen". Grote bedrijven krijgen een groot stuk. Omdat de Amerikaanse beurs heel groot is, bestaat de MSCI World voor ongeveer **70% uit Amerikaanse bedrijven**. Een wereldfonds is dus breed, maar wel flink Amerikaans. Dat is geen probleem, zolang je het weet. Wil je zien hoe echte fondsen heten, met ticker en ISIN? Kijk in de [bijlage: zo kan een portefeuille eruitzien](bijlage-voorbeeldportefeuilles.md). Afkortingen staan in de [begrippenlijst](../begrippenlijst.md).
 
 ## Een factsheet lezen
 
@@ -129,7 +129,7 @@ Sam legt twee fictieve wereld-ETF's naast elkaar met de checklist:
 
 Beide zijn breed en goedkoop. Sam vindt het fijn dat ETF B ook opkomende landen bevat en kiest daarvoor, voor het aandelendeel. Voor het obligatiedeel zoekt Sam een obligatie-ETF in euro's met een goede rating (les 3.2). Sam checkt in module 4 of beide bij de gekozen broker te koop zijn, en wat het daar kost.
 
-Let op: dit is Sams afweging met fictieve fondsen. Het is geen advies om een bepaald fonds of een bepaalde index te kiezen.
+Let op: dit is Sams afweging met fictieve fondsen. In de [bijlage](bijlage-voorbeeldportefeuilles.md) zie je hoe echte fondsen van dit type heten, met ticker en ISIN, en hoe Sams verdeling er dan uit kan zien. Het is geen advies om een bepaald fonds of een bepaalde index te kiezen.
 
 ## Veelgemaakte fouten
 

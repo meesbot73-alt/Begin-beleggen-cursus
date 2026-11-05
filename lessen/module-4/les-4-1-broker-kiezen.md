@@ -14,7 +14,7 @@ Een broker:
 2. bewaart je beleggingen op jouw naam;
 3. stuurt je overzichten, zoals een jaaroverzicht voor de belastingaangifte en een kostenoverzicht.
 
-Er zijn ook aanbieders die geen toegang geven tot de beurs, maar hun **eigen indexfondsen** verkopen (les 3.3). Die tellen we hier ook mee.
+Er zijn ook aanbieders die geen toegang geven tot de beurs, maar hun **eigen indexfondsen** verkopen (les 3.3). Die staan niet in de bijlage, maar met de criteria hieronder kun je ze ook beoordelen.
 
 ## De zes criteria
 
@@ -24,7 +24,7 @@ Kies je broker op deze zes punten, in deze volgorde.
 
 Dit is niet onderhandelbaar. Check:
 
-- **Heeft de broker een vergunning?** Bij Nederlandse partijen: AFM en DNB. Bij partijen uit een ander EU-land: de toezichthouder daar (bijvoorbeeld BaFin in Duitsland), plus een registratie bij de AFM. Je kunt dat zelf opzoeken in het register op afm.nl.
+- **Heeft de broker een vergunning?** Bij Nederlandse partijen: AFM en DNB. Bij partijen uit een ander EU-land: de toezichthouder daar (bijvoorbeeld BaFin in Duitsland of CySEC op Cyprus), plus een registratie bij de AFM. Je kunt dat zelf opzoeken in het register op afm.nl.
 - **Worden je beleggingen apart bewaard?** Bij een betrouwbare broker staan je effecten gescheiden van het vermogen van de broker zelf. Gaat de broker failliet, dan zijn ze nog steeds van jou.
 - **Valt de broker onder een beleggerscompensatiestelsel?** Gaat er toch iets mis, dan krijg je tot € 20.000 vergoed (module 6).
 
@@ -193,5 +193,5 @@ Meerkeuzetest: 4 vragen. Kies telkens één antwoord.
 | 6 | Telefoon met Nederlandse vlag, iDEAL-knop, helpdesk | "Vijf: gebruiksgemak. Nederlandse app, makkelijk storten, een duidelijk jaaroverzicht." |
 | 7 | Cadeautje met een vraagteken | "En zes: extra's zoals rente of een gratis aandeel. Leuk, maar nooit de reden om te kiezen." |
 | 8 | Sam met een keuzeblad met drie kolommen | "Sam vergelijkt drie partijen en kiest er een met een gratis beleggingsplan, zodat de honderdvijftig euro elke maand volledig en automatisch wordt belegd." |
-| 9 | Klein in beeld: "Voorbeeld, geen advies" en verwijzing naar de bijlage | "In de bijlage vind je vijf echte partijen naast elkaar. Maar jouw keuze maak je zelf, met het keuzeblad." |
+| 9 | Klein in beeld: "Voorbeeld, geen advies" en verwijzing naar de bijlage | "In de bijlage vind je zes echte partijen naast elkaar. Maar jouw keuze maak je zelf, met het keuzeblad." |
 | 10 | Mascotte met opdrachtkaartje | "Opdracht: vul het keuzeblad in en zoek je broker op in het register. In de volgende les openen we de rekening." |

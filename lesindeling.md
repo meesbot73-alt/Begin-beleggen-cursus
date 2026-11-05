@@ -20,6 +20,7 @@
 3. Beleggingsfondsen en ETF's
 4. Risico, rendement en spreiding
 5. Kosten en hun invloed op je rendement
+- Bijlage: zo kan een portefeuille eruitzien (echte ETF's met ticker en ISIN)
 
 ## Module 4: Aan de slag
 
@@ -27,6 +28,7 @@
 2. Een rekening openen
 3. Je eerste aankoop stap voor stap
 4. Eenmalig inleggen of periodiek beleggen
+- Bijlage: brokers vergeleken en uitgelegd (o.a. Saxo, DEGIRO, MEXEM, Trade Republic)
 
 ## Module 5: Een plan maken en volhouden
 
@@ -43,3 +45,7 @@
 
 - Samenvatting en checklist voor je start
 - Verder leren: betrouwbare bronnen
+
+## Bij de hele cursus
+
+- [Begrippenlijst](lessen/begrippenlijst.md): alle afkortingen voluit en uitgelegd

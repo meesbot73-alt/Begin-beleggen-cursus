@@ -74,6 +74,8 @@ Je ziet een samenvatting. Check alles:
 | Kosten | € 1,00 |
 | **Totaal** | **€ 98,35** |
 
+In dit voorbeeld gebruiken we een fictief fonds. Hoe echte fondsen heten en welke ISIN en ticker erbij horen, zie je in de [bijlage van module 3](../module-3/bijlage-voorbeeldportefeuilles.md).
+
 Klopt het niet? Annuleren en opnieuw. Klopt het wel? Bevestigen.
 
 📷 *Schermvoorbeeld: orderoverzicht*

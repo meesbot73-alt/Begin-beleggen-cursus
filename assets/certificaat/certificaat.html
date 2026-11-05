@@ -1,0 +1,43 @@
+<!doctype html><html lang="nl"><head><meta charset="utf-8"><title>Certificaat Beleggen Begint Hier</title>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Figtree:wght@400;600&display=swap" rel="stylesheet">
+<style>
+@page{size:A4 landscape;margin:0}
+*{box-sizing:border-box}
+html,body{margin:0;width:297mm;height:210mm;background:#F3F7F4}
+body{font-family:Figtree,sans-serif;color:#0F2A1F}
+.blad{position:relative;width:297mm;height:210mm;padding:14mm}
+.kader{position:relative;height:100%;border:2.2mm solid #1F6B4A;border-radius:6mm;background:#fff;padding:14mm 20mm;overflow:hidden}
+.kader:before{content:"";position:absolute;inset:3mm;border:0.6mm solid #F2C14E;border-radius:4mm;pointer-events:none}
+.balk{position:absolute;left:0;right:0;top:0;height:9mm;background:#1F6B4A}
+.balk:after{content:"";position:absolute;left:0;right:0;bottom:-1.6mm;height:1.6mm;background:#F2C14E}
+.merk{margin-top:6mm;font-family:'Bricolage Grotesque';font-weight:800;color:#1F6B4A;font-size:7mm;letter-spacing:.2mm}
+.merk span{color:#C99A1E}
+h1{font-family:'Bricolage Grotesque';font-weight:800;font-size:17mm;margin:7mm 0 0;letter-spacing:.3mm}
+.sub{font-size:6mm;font-weight:600;color:#1F6B4A;margin-top:1mm;text-transform:uppercase;letter-spacing:1.2mm}
+.voor{margin-top:10mm;font-size:5mm}
+.naam{font-family:'Bricolage Grotesque';font-weight:600;font-size:13mm;margin-top:2mm;padding-bottom:2mm;border-bottom:0.6mm solid #CFE9DC;width:170mm;min-height:17mm}
+.tekst{margin-top:6mm;font-size:4.6mm;line-height:1.55;width:165mm}
+.onder{position:absolute;left:20mm;right:20mm;bottom:16mm;display:flex;gap:18mm;align-items:flex-end}
+.veld{width:62mm}
+.veld .lijn{border-bottom:0.5mm solid #0F2A1F;height:9mm;font-size:5mm;display:flex;align-items:flex-end;padding-bottom:1mm}
+.veld .label{font-size:3.4mm;color:#4a6357;margin-top:1.5mm}
+.zegel{position:absolute;right:22mm;top:30mm;width:54mm;height:54mm;border-radius:50%;background:#F2C14E;display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 2mm #fff,0 0 0 2.8mm #F2C14E}
+.zegel .in{width:44mm;height:44mm;border-radius:50%;border:0.6mm dashed #0F2A1F;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;font-family:'Bricolage Grotesque';font-weight:800;color:#0F2A1F;line-height:1.05}
+.zegel .groot{font-size:9mm}.zegel .klein{font-size:3.2mm;letter-spacing:.6mm;text-transform:uppercase;font-family:Figtree;font-weight:600;margin-top:1mm}
+.mascotte{position:absolute;right:12mm;bottom:8mm;width:62mm}
+.disc{position:absolute;left:20mm;bottom:7mm;font-size:2.8mm;color:#6b7f75;width:160mm}
+</style></head><body><div class="blad"><div class="kader"><div class="balk"></div>
+<div class="merk">Beleggen <span>Begint</span> Hier</div>
+<h1>Certificaat</h1>
+<div class="sub">Basis beleggen</div>
+<div class="voor">Uitgereikt aan</div>
+<div class="naam">{{NAAM}}</div>
+<div class="tekst">voor het met succes afronden van de online cursus <b>Beleggen Begint Hier</b>: zes modules over sparen en beleggen, je financiële basis, aandelen, obligaties en ETF's, een broker kiezen, een eigen beleggingsplan, en belasting en regels in Nederland.</div>
+<div class="zegel"><div class="in"><div class="klein">Cursus</div><div class="groot">Afgerond</div><div class="klein">6 modules</div></div></div>
+<div class="onder">
+<div class="veld"><div class="lijn">{{DATUM}}</div><div class="label">Datum</div></div>
+<div class="veld"><div class="lijn" style="font-family:'Bricolage Grotesque';font-weight:600">Beleggen Begint Hier</div><div class="label">Uitgegeven door</div></div>
+</div>
+<img class="mascotte" src="../mascotte.png" alt="">
+<div class="disc">Dit certificaat is een bewijs van deelname aan een educatieve cursus. Het is geen erkend diploma of beroepskwalificatie. www.beleggenbeginthier.nl</div>
+</div></div></body></html>
