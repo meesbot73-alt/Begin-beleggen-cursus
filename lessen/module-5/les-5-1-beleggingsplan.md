@@ -74,7 +74,7 @@ Zo kun je nieuwsgierig zijn zonder dat het je hele vermogen raakt. Beleggen Begi
 | Basis | Buffer € 3.000, geen schulden |
 | Doelen | Rijbewijs (sparen), huis over 8 jaar (later beleggen), vermogen voor later (beleggen) |
 | Verdeling | 80% aandelen, 20% obligaties, herbalanceren bij meer dan 5 procentpunt afwijking |
-| Wat en waar | Wereld-ETF (aandelen), obligatie-ETF in euro's, broker met beleggingsplan, € 150 op de 28e |
+| Wat en waar | Wereld-ETF (aandelen), obligatie-ETF in euro's, broker met beleggingsplan, € 150 op de 28e (zie voorbeeld 3 in de [bijlage voorbeeldportefeuilles](../module-3/bijlage-voorbeeldportefeuilles.md) voor hoe dat er met echte fondsen uit kan zien) |
 | Speelpot | Maximaal 5%, nu nog niet gebruikt |
 | Regels | Niet verkopen bij een daling, niet vaker dan twee keer per maand kijken, 48 uur wachten bij tips, helft van loonsverhoging erbij |
 | Crisisplan | Plan lezen, buffer checken, plan laten doorlopen, een maand niet kijken |

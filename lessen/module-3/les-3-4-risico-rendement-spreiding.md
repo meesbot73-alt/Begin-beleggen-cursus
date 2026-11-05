@@ -77,9 +77,9 @@ Aan het eind staat de koers weer op € 10, net als bij de start. Toch zijn je 6
 
 Je denkt dat je spreidt, maar eigenlijk niet:
 
-- **Vijf ETF's met dezelfde bedrijven.** Een MSCI World-ETF, een S&P 500-ETF en een "Tech Giants"-ETF bevatten grotendeels dezelfde grote Amerikaanse bedrijven. Je hebt dan drie fondsen, maar niet drie keer zoveel spreiding.
+- **Meerdere ETF's met dezelfde bedrijven.** Een MSCI World-ETF, een S&P 500-ETF en een "Tech Giants"-ETF bevatten grotendeels dezelfde grote Amerikaanse bedrijven. Je hebt dan drie fondsen, maar niet drie keer zoveel spreiding. In de [bijlage voorbeeldportefeuilles](bijlage-voorbeeldportefeuilles.md) zie je dit met echte fondsen.
 - **Twintig aandelen uit één sector.** Twintig techbedrijven zijn samen nog steeds één sector.
-- **Alleen Nederlandse aandelen.** De AEX bestaat uit 30 bedrijven, en een paar heel grote wegen zwaar.
+- **Alleen Nederlandse aandelen.** De AEX (*Amsterdam Exchange index*) bestaat uit 30 bedrijven, en een paar heel grote wegen zwaar.
 
 Check bij elk fonds wat erin zit (les 3.3). Overlap kun je zien op ETF-vergelijkingssites.
 

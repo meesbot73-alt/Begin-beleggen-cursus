@@ -64,7 +64,7 @@ Dat verklaart wat er in **2022** gebeurde. De rente steeg in korte tijd heel har
 
 ### Ratings
 
-Bureaus zoals S&P, Moody's en Fitch geven een cijfer voor hoe betrouwbaar een lener is. AAA is het hoogst. Alles van BBB en hoger heet **investment grade**. Lager dan BBB heet **high yield** of, minder vriendelijk, junk. Nederland en Duitsland hebben een AAA-rating.
+Kredietbeoordelaars zoals S&P (Standard & Poor's), Moody's en Fitch geven een cijfer voor hoe betrouwbaar een lener is. AAA is het hoogst. Alles van BBB en hoger heet **investment grade**. Lager dan BBB heet **high yield** of, minder vriendelijk, junk. Nederland en Duitsland hebben een AAA-rating.
 
 ## Obligaties kopen: via een fonds
 

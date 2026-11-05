@@ -31,7 +31,7 @@ Sparen groeit langzaam. Vaak zelfs langzamer dan de prijzen in de winkel stijgen
 Als je belegt, koop je een stukje van iets dat in waarde kan groeien. De twee bekendste vormen:
 
 - **Een aandeel:** een klein stukje van één bedrijf. Koop je een aandeel van een supermarktketen, dan ben je voor een heel klein deel mede-eigenaar van die keten.
-- **Een fonds of ETF:** een mandje met stukjes van tientallen tot duizenden bedrijven tegelijk. Met één aankoop beleg je dan bijvoorbeeld in de grootste bedrijven van de hele wereld.
+- **Een fonds of ETF** (*Exchange Traded Fund*, in het Nederlands een beursverhandeld fonds)**:** een mandje met stukjes van tientallen tot duizenden bedrijven tegelijk. Met één aankoop beleg je dan bijvoorbeeld in de grootste bedrijven van de hele wereld.
 
 Gaat het goed met die bedrijven, dan worden hun stukjes meer waard en verdienen ze geld dat ze soms aan hun eigenaren uitkeren (**dividend**). Gaat het slecht, dan daalt de waarde. In module 3 leer je deze beleggingen uitgebreid kennen.
 
@@ -114,7 +114,7 @@ Vroeger was het duur en ingewikkeld. Tegenwoordig kan iedereen met een smartphon
 | Spaarrente | De vergoeding die de bank je geeft voor geld op je spaarrekening |
 | Depositogarantiestelsel | Regeling die spaargeld tot € 100.000 per persoon per bank beschermt |
 | Aandeel | Een klein stukje eigendom van een bedrijf |
-| ETF | Een fonds dat je op de beurs koopt en dat in veel bedrijven tegelijk belegt |
+| ETF | *Exchange Traded Fund*: een fonds dat je op de beurs koopt en dat in veel bedrijven tegelijk belegt |
 | Dividend | Een deel van de winst dat een bedrijf uitkeert aan aandeelhouders |
 | Buffer | Spaargeld voor onverwachte uitgaven |
 

@@ -8,8 +8,8 @@ Een fonds is een mand met beleggingen die je in één keer koopt. In video 02 za
 
 ## Even herhalen
 
-- Een **ETF** is een fonds dat je op de beurs koopt en verkoopt, net als een aandeel.
-- De meeste ETF's volgen een **index**, zoals de AEX of een wereldindex (video 08).
+- Een **ETF** (*Exchange Traded Fund*, beursverhandeld fonds) is een fonds dat je op de beurs koopt en verkoopt, net als een aandeel.
+- De meeste ETF's volgen een **index**, zoals de AEX (*Amsterdam Exchange index*, de 30 grootste bedrijven op de Amsterdamse beurs) of een wereldindex (video 08).
 - Voordelen: brede spreiding, lage kosten, simpel, en je kunt klein beginnen.
 - Daalt de hele beurs, dan daalt je ETF mee.
 
@@ -24,7 +24,7 @@ Een fonds is een mand met beleggingen die je in één keer koopt. In video 02 za
 | Kosten per jaar | Vaak 0,8 tot 2% | Vaak 0,05 tot 0,4% |
 | Lukt het doel? | Op lange termijn doet de meerderheid van de actieve fondsen het slechter dan hun index, vooral door de hogere kosten | Ja, op een klein verschil na |
 
-Dat laatste is goed onderzocht. S&P publiceert er elk jaar een rapport over (de SPIVA-rapporten): over periodes van 10 tot 15 jaar blijft het grootste deel van de actieve aandelenfondsen achter bij hun index. Daarom kiezen veel beleggers voor passief.
+Dat laatste is goed onderzocht. S&P Dow Jones Indices, het bedrijf achter de S&P 500, publiceert er elk jaar een rapport over, SPIVA genaamd (*S&P Indices Versus Active*). Daaruit blijkt: over periodes van 10 tot 15 jaar blijft het grootste deel van de actieve aandelenfondsen achter bij hun index. Daarom kiezen veel beleggers voor passief.
 
 ### ETF of indexfonds
 
@@ -45,17 +45,33 @@ Veel beginners kiezen een fonds dat een **wereldindex** volgt. De bekendste:
 
 | Index | Wat zit erin | Aantal bedrijven (ongeveer) |
 | --- | --- | --- |
-| MSCI World | Grote en middelgrote bedrijven uit 23 ontwikkelde landen | 1.400 |
-| MSCI ACWI | MSCI World plus opkomende landen zoals China, India en Brazilië | 2.500 |
+| MSCI World | Grote en middelgrote bedrijven uit 23 ontwikkelde landen | 1.300 |
+| MSCI ACWI | MSCI World plus opkomende landen zoals China, India en Brazilië | 2.300 |
 | FTSE All-World | Vergelijkbaar met ACWI, met nog wat meer bedrijven | 4.000 |
 | MSCI Emerging Markets | Alleen opkomende landen | 1.200 |
 | S&P 500 | 500 grote Amerikaanse bedrijven | 500 |
 
 **Let op:** wereldindexen zijn "naar marktwaarde gewogen". Grote bedrijven krijgen een groot stuk. Omdat de Amerikaanse beurs heel groot is, bestaat de MSCI World voor ongeveer **70% uit Amerikaanse bedrijven**. Een wereldfonds is dus breed, maar wel flink Amerikaans. Dat is geen probleem, zolang je het weet.
 
+### Wat betekenen die namen?
+
+Indexnamen zijn bijna altijd afkortingen van het bedrijf dat de index maakt. Je hoeft ze niet uit je hoofd te leren, maar zo weet je wat je leest:
+
+| Afkorting | Voluit | Wat is het? |
+| --- | --- | --- |
+| MSCI | *Morgan Stanley Capital International* | Een Amerikaans bedrijf dat indexen maakt, zoals de MSCI World |
+| ACWI | *All Country World Index* | De wereldindex van MSCI mét opkomende landen |
+| IMI | *Investable Market Index* | Een versie van een index waarin ook kleinere bedrijven zitten |
+| FTSE | *Financial Times Stock Exchange* | Brits indexbedrijf (FTSE Russell), bekend van de FTSE All-World |
+| S&P | *Standard & Poor's* | Amerikaans bedrijf achter onder meer de S&P 500 |
+| AEX | *Amsterdam Exchange index* | De 30 grootste bedrijven op Euronext Amsterdam |
+| Emerging Markets | Opkomende markten | Landen waarvan de economie nog in ontwikkeling is, zoals China, India en Brazilië |
+
+Een index is dus een lijst die een bedrijf als MSCI of FTSE samenstelt en bijhoudt. Een ETF-aanbieder (zoals iShares of Vanguard) koopt de bedrijven op die lijst na. Wil je weten hoe dat er met echte fondsen, tickers en ISIN-codes uitziet? Kijk in de [bijlage: zo kan een portefeuille eruitzien](bijlage-voorbeeldportefeuilles.md).
+
 ## Een factsheet lezen
 
-Elk fonds heeft een **factsheet**: één of twee pagina's met de belangrijkste gegevens. Daarnaast is er een **Essentiële-informatiedocument** (ook wel KID of EID), dat wettelijk verplicht is. Hieronder een fictief voorbeeld, regel voor regel uitgelegd.
+Elk fonds heeft een **factsheet**: één of twee pagina's met de belangrijkste gegevens. Daarnaast is er een **Essentiële-informatiedocument** (ook wel KID, van het Engelse *Key Information Document*, of EID), dat wettelijk verplicht is. Hieronder een fictief voorbeeld, regel voor regel uitgelegd.
 
 **Voorbeeld: Wereld Aandelen UCITS ETF (Acc)**
 
@@ -63,10 +79,10 @@ Elk fonds heeft een **factsheet**: één of twee pagina's met de belangrijkste g
 | --- | --- | --- | --- |
 | Index | MSCI World | Welke lijst het fonds volgt | Past de index bij wat je wilt? |
 | ISIN | IE00XXXXXXXX | Unieke code | Hiermee vind je precies dit fonds bij je broker. IE betekent Ierland |
-| Lopende kosten (TER) | 0,20% per jaar | Jaarlijkse kosten, al verwerkt in de koers | Hoe lager hoe beter, bij gelijke index |
+| Lopende kosten (TER, *Total Expense Ratio*; soms OCF, *Ongoing Charges Figure*) | 0,20% per jaar | Jaarlijkse kosten, al verwerkt in de koers | Hoe lager hoe beter, bij gelijke index |
 | Fondsgrootte | € 8 miljard | Hoeveel geld er in het fonds zit | Groter is meestal stabieler. Kleine fondsen (onder € 100 miljoen) worden vaker opgeheven |
 | Oprichtingsdatum | 2012 | Hoe lang het fonds bestaat | Een langere geschiedenis laat zien hoe het fonds de index volgt |
-| Dividend | Accumulerend (Acc) | Dividend wordt automatisch herbelegd | Acc is handig voor rente-op-rente. Dist (distribuerend) keert uit |
+| Dividend | Accumulerend (Acc, van *accumulating*) | Dividend wordt automatisch herbelegd | Acc is handig voor rente-op-rente. Dist (distribuerend, van *distributing*) keert uit |
 | Replicatie | Fysiek (optimised sampling) | Het fonds koopt de echte aandelen, of een representatieve selectie | Fysiek is het meest gangbaar. Synthetisch werkt met afspraken (swaps) met banken |
 | Domicilie | Ierland | Waar het fonds juridisch gevestigd is | Ierland is gangbaar en fiscaal gunstig voor Amerikaanse dividenden |
 | Fondsvaluta | USD | De valuta waarin het fonds rekent | Zegt weinig: het gaat om de valuta's van de bedrijven erin |
@@ -74,11 +90,11 @@ Elk fonds heeft een **factsheet**: één of twee pagina's met de belangrijkste g
 | Aantal posities | 1.430 | Hoeveel bedrijven erin zitten | Meer is breder gespreid |
 | Risico-indicator | 4 van 7 | Uit het essentiële-informatiedocument | Hoe hoger, hoe meer schommelingen |
 | Top 10 posities | 22% van het fonds | De grootste bedrijven samen | Laat zien hoe geconcentreerd het fonds is |
-| Landen | VS 70%, Japan 6%, VK 4%, ... | Verdeling over landen | Laat zien waar je echt in belegt |
+| Landen | VS 70%, Japan 6%, VK 4%, ... (VS = Verenigde Staten, VK = Verenigd Koninkrijk) | Verdeling over landen | Laat zien waar je echt in belegt |
 
 ### UCITS: waarom dat woord overal staat
 
-**UCITS** is een Europese regeling voor fondsen met regels over spreiding, bewaring en informatie. Als Nederlandse belegger koop je in de praktijk vrijwel alleen UCITS-fondsen. Amerikaanse ETF's kun je bij Europese brokers meestal niet kopen, omdat ze geen Europees essentiële-informatiedocument hebben.
+**UCITS** (*Undertakings for Collective Investment in Transferable Securities*, vrij vertaald: instellingen voor collectieve belegging in effecten) is een Europese regeling voor fondsen met regels over spreiding, bewaring en informatie. Als Nederlandse belegger koop je in de praktijk vrijwel alleen UCITS-fondsen. Amerikaanse ETF's kun je bij Europese brokers meestal niet kopen, omdat ze geen Europees essentiële-informatiedocument hebben.
 
 ### Waarom Ierland?
 
@@ -129,7 +145,7 @@ Sam legt twee fictieve wereld-ETF's naast elkaar met de checklist:
 
 Beide zijn breed en goedkoop. Sam vindt het fijn dat ETF B ook opkomende landen bevat en kiest daarvoor, voor het aandelendeel. Voor het obligatiedeel zoekt Sam een obligatie-ETF in euro's met een goede rating (les 3.2). Sam checkt in module 4 of beide bij de gekozen broker te koop zijn, en wat het daar kost.
 
-Let op: dit is Sams afweging met fictieve fondsen. Het is geen advies om een bepaald fonds of een bepaalde index te kiezen.
+Let op: dit is Sams afweging met fictieve fondsen. In de [bijlage](bijlage-voorbeeldportefeuilles.md) zie je hoe echte fondsen van dit type heten, met ticker en ISIN, en hoe Sams verdeling er dan uit kan zien. Het is geen advies om een bepaald fonds of een bepaalde index te kiezen.
 
 ## Veelgemaakte fouten
 
@@ -158,11 +174,11 @@ Voor vermogen opbouwen kiezen veel mensen accumulerend, dan wordt het dividend a
 | Indexfonds | Een passief fonds dat je niet op de beurs koopt, maar één keer per dag |
 | Factsheet | Overzicht met de belangrijkste gegevens van een fonds |
 | Essentiële-informatiedocument (KID) | Wettelijk verplichte samenvatting van een fonds, met risico-indicator |
-| TER | Lopende kosten van een fonds per jaar |
+| TER | *Total Expense Ratio*: lopende kosten van een fonds per jaar |
 | Accumulerend (Acc) | Dividend wordt automatisch herbelegd |
 | Distribuerend (Dist) | Dividend wordt uitgekeerd |
 | Replicatie | Hoe een fonds de index nabootst: fysiek of synthetisch |
-| UCITS | Europese regels voor fondsen |
+| UCITS | *Undertakings for Collective Investment in Transferable Securities*: Europese regels voor fondsen |
 | Tracking difference | Het verschil tussen het rendement van het fonds en de index |
 
 ## Test jezelf
